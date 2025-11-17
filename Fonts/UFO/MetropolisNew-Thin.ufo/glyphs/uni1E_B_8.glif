@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EB8" format="2">
   <advance width="625"/>
-  <unicode hex="1EB8"/>
   <anchor x="98" y="687" name="ae_upper"/>
   <anchor x="549" y="0" name="bottom"/>
   <anchor x="324" y="687" name="top"/>

@@ -61,7 +61,6 @@ feature locl {
   sub iacute j' by jacute;
 #< feature
 } locl;
-
 feature sinf {
 # Scientific Inferiors
 
@@ -78,7 +77,6 @@ feature sinf {
   sub zero by zero.inferior;
 #< feature
 } sinf;
-
 feature sups {
 # Superscript
 
@@ -95,7 +93,6 @@ feature sups {
   sub zero by zero.superior;
 #< feature
 } sups;
-
 feature subs {
 # Subscript
 
@@ -112,7 +109,6 @@ feature subs {
   sub zero by zero.inferior;
 #< feature
 } subs;
-
 feature frac {
 # Fractions
 
@@ -136,7 +132,6 @@ lookup frac_precomposed {
 } frac_precomposed;
 #< feature
 } frac;
-
 feature ordn {
 # Ordinals
 
@@ -145,7 +140,6 @@ feature ordn {
   sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 #< feature
 } ordn;
-
 feature pnum {
 # Proportional Figures
 
@@ -183,7 +177,6 @@ feature pnum {
   sub zero.tf by zero;
 #< feature
 } pnum;
-
 feature tnum {
 # Tabular Figures
 
@@ -221,7 +214,6 @@ feature tnum {
   sub zero by zero.tf;
 #< feature
 } tnum;
-
 feature salt {
 # Stylistic Alternates
 
@@ -253,7 +245,6 @@ feature salt {
   sub atilde from [atilde.alt];
 #< feature
 } salt;
-
 feature case {
 # Case Sensitive Forms
 
@@ -269,7 +260,6 @@ feature case {
   sub ringacute by ringacute.case;
 #< feature
 } case;
-
 feature ss01 {
 # Stylistic Set 01–20
 
@@ -301,4 +291,3 @@ feature ss01 {
   sub atilde from [atilde.alt];
 #< feature
 } ss01;
-

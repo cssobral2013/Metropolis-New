@@ -6,25 +6,27 @@
   <outline>
     <contour>
       <point x="80" y="0" type="line"/>
-      <point x="109" y="138" type="line"/>
-      <point x="220" y="229" type="line"/>
-      <point x="351" y="0" type="line"/>
-      <point x="442" y="0" type="line"/>
-      <point x="282" y="280" type="line"/>
-      <point x="565" y="517" type="line"/>
-      <point x="467" y="517" type="line"/>
-      <point x="129" y="234" type="line"/>
       <point x="187" y="517" type="line"/>
       <point x="112" y="517" type="line"/>
       <point x="5" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="97" y="128" type="line"/>
+      <point x="545" y="517" type="line"/>
+      <point x="447" y="517" type="line"/>
+      <point x="117" y="224" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="242" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="275" y="293" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>k%</string>
   <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
+  <string>1,0.821,0.6,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.loclTRK" format="2">
   <advance width="189"/>
-  <anchor x="95" y="-0" name="bottom"/>
+  <anchor x="95" y="0" name="bottom"/>
   <anchor x="95" y="704" name="top"/>
   <outline>
     <component base="dotlessi"/>

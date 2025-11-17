@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent.tf.rvrn" format="2">
   <advance width="700"/>
-  <anchor x="336" y="-0" name="bottom"/>
+  <anchor x="336" y="0" name="bottom"/>
   <anchor x="437" y="517" name="top"/>
   <outline>
     <contour>

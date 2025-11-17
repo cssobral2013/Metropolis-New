@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
   <key>GSCornerRadius</key>
-  <integer>74</integer>
+  <real>74</real>
   <key>GSOffsetHorizontal</key>
-  <integer>67</integer>
+  <real>67</real>
   <key>GSOffsetProportional</key>
-  <integer>1</integer>
+  <real>1</real>
   <key>GSOffsetVertical</key>
-  <integer>54</integer>
+  <real>54</real>
   <key>com.schriftgestaltung.fontMaster.paramArea</key>
-  <integer>310</integer>
+  <real>310</real>
   <key>com.schriftgestaltung.fontMaster.paramDepth</key>
-  <integer>7</integer>
+  <real>7</real>
   <key>com.schriftgestaltung.fontMaster.paramOver</key>
-  <integer>9</integer>
+  <real>9</real>
   <key>public.glyphOrder</key>
   <array>
     <string>A</string>

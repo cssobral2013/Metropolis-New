@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
   <key>GSOffsetHorizontal</key>
-  <integer>86</integer>
+  <real>86</real>
   <key>GSOffsetProportional</key>
-  <integer>1</integer>
+  <real>1</real>
   <key>GSOffsetVertical</key>
-  <integer>79</integer>
+  <real>79</real>
   <key>com.schriftgestaltung.fontMaster.paramArea</key>
-  <integer>350</integer>
+  <real>350</real>
   <key>com.schriftgestaltung.fontMaster.paramDepth</key>
-  <integer>5</integer>
+  <real>5</real>
   <key>com.schriftgestaltung.fontMaster.paramOver</key>
-  <integer>2</integer>
+  <real>2</real>
   <key>public.glyphOrder</key>
   <array>
     <string>A</string>

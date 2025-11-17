@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar.tf.rvrn" format="2">
   <advance width="700"/>
-  <anchor x="303" y="-0" name="bottom"/>
+  <anchor x="303" y="0" name="bottom"/>
   <anchor x="442" y="687" name="top"/>
   <outline>
     <contour>

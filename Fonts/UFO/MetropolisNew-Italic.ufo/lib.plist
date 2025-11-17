@@ -5,17 +5,17 @@
   <key>com.typemytype.robofont.italicSlantOffset</key>
   <real>-53</real>
   <key>GSOffsetHorizontal</key>
-  <integer>65</integer>
+  <real>65</real>
   <key>GSOffsetProportional</key>
-  <integer>1</integer>
+  <real>1</real>
   <key>GSOffsetVertical</key>
-  <integer>42</integer>
+  <real>42</real>
   <key>com.schriftgestaltung.fontMaster.paramArea</key>
-  <integer>310</integer>
+  <real>310</real>
   <key>com.schriftgestaltung.fontMaster.paramDepth</key>
-  <integer>7</integer>
+  <real>7</real>
   <key>com.schriftgestaltung.fontMaster.paramOver</key>
-  <integer>9</integer>
+  <real>9</real>
   <key>public.glyphOrder</key>
   <array>
     <string>A</string>
