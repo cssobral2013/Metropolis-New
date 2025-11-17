@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ahoi" format="2">
+  <advance width="572"/>
+  <unicode hex="1EA3"/>
+  <outline>
+    <component base="a"/>
+    <component base="hookabovecomb" xOffset="-15"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w572</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 160</string>
+          <string>hstem 0 148</string>
+          <string>hstem 369 160</string>
+          <string>hstem 517 -20</string>
+          <string>hstem 677 93</string>
+          <string>vstem 24 184</string>
+          <string>vstem 406 138</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

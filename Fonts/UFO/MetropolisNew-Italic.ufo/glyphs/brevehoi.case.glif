@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevehoi.case" format="2">
+  <advance width="755"/>
+  <outline>
+    <contour>
+      <point x="464" y="834" type="line"/>
+      <point x="508" y="834" type="line"/>
+      <point x="511" y="850" type="line"/>
+      <point x="558" y="862"/>
+      <point x="606" y="881"/>
+      <point x="606" y="922" type="curve" smooth="yes"/>
+      <point x="606" y="952"/>
+      <point x="559" y="960"/>
+      <point x="524" y="960" type="curve" smooth="yes"/>
+      <point x="492" y="960"/>
+      <point x="461" y="953"/>
+      <point x="431" y="945" type="curve"/>
+      <point x="427" y="914" type="line"/>
+      <point x="451" y="921"/>
+      <point x="482" y="929"/>
+      <point x="509" y="929" type="curve" smooth="yes"/>
+      <point x="525" y="929"/>
+      <point x="550" y="927"/>
+      <point x="550" y="912" type="curve" smooth="yes"/>
+      <point x="550" y="885"/>
+      <point x="498" y="871"/>
+      <point x="469" y="864" type="curve"/>
+    </contour>
+    <contour>
+      <point x="341" y="803" type="line"/>
+      <point x="379" y="773"/>
+      <point x="427" y="759"/>
+      <point x="482" y="759" type="curve" smooth="yes"/>
+      <point x="540" y="759"/>
+      <point x="590" y="775"/>
+      <point x="633" y="800" type="curve"/>
+      <point x="589" y="836" type="line"/>
+      <point x="558" y="817"/>
+      <point x="522" y="805"/>
+      <point x="481" y="805" type="curve" smooth="yes"/>
+      <point x="446" y="805"/>
+      <point x="415" y="814"/>
+      <point x="391" y="833" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6b57289b0ea9962904945c294c68a3ecbcd6b98c341e27c2deda41954ba4e0796178f5ed3d47df33e1772b130df62052ad88af48d4108e421439bb06cab0d76e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 408.09 -21</string>
+          <string>hstem 463.53 36.26</string>
+          <string>hstem 676.68 47.04</string>
+          <string>hstem 723.72 -20</string>
+          <string>hstem 759 31.85</string>
+          <string>hstem 810.45 20.58</string>
+          <string>hstem 876.6 21.56</string>
+          <string>vstem 411 44</string>
+          <string>vstem 482 55</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gacute" format="2">
+  <advance width="594"/>
+  <unicode hex="01F5"/>
+  <anchor x="283" y="-172" name="bottom"/>
+  <anchor x="292" y="704" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="acute" xOffset="232"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>g+acute</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexhoi" format="2">
+  <advance width="814"/>
+  <unicode hex="1ED4"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexhoi.case" xOffset="22"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w814</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 176</string>
+          <string>hstem 523 176</string>
+          <string>hstem 744 154</string>
+          <string>hstem 969 93</string>
+          <string>vstem 47 197</string>
+          <string>vstem 606 197</string>
+          <string>vstem 753 138</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

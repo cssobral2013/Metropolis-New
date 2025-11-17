@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEacute" format="2">
+  <advance width="1017"/>
+  <unicode hex="01FC"/>
+  <anchor x="667" y="0" name="bottom"/>
+  <anchor x="633.436" y="874" name="top"/>
+  <outline>
+    <component base="AE"/>
+    <component base="acute" xOffset="469" yOffset="170"/>
+  </outline>
+  <guideline angle="0" x="0" y="544"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>AE+acute</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

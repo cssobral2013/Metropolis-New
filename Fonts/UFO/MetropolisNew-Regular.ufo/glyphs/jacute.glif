@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jacute" format="2">
+  <advance width="193"/>
+  <anchor x="97" y="704" name="top"/>
+  <outline>
+    <component base="dotlessj"/>
+    <component base="acute" xOffset="37"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>jdotless+acute</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevehoi" format="2">
+  <advance width="710"/>
+  <unicode hex="1EB2"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevehoi.case" xOffset="42"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w710</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 175 36</string>
+          <string>hstem 642 45</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 759 37</string>
+          <string>hstem 856 39</string>
+          <string>hstem 987 34</string>
+          <string>vstem 457 34</string>
+          <string>vstem 548 35</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

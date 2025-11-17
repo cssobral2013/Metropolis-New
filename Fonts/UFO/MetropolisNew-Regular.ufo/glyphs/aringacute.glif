@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aringacute" format="2">
+  <advance width="529"/>
+  <unicode hex="01FB"/>
+  <anchor x="479" y="0" name="bottom"/>
+  <anchor x="287" y="891" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringacute" xOffset="146"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+ringacute</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

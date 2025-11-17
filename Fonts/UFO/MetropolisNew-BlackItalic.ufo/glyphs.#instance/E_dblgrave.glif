@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edblgrave" format="2">
+  <advance width="624"/>
+  <anchor x="186" y="687" name="ae_upper"/>
+  <anchor x="494" y="-0" name="bottom"/>
+  <anchor x="414" y="687" name="top"/>
+  <outline>
+    <contour>
+      <point x="494" y="0" type="line"/>
+      <point x="502" y="36" type="line"/>
+      <point x="78" y="36" type="line"/>
+      <point x="85" y="26" type="line"/>
+      <point x="150" y="342" type="line"/>
+      <point x="139" y="332" type="line"/>
+      <point x="533" y="332" type="line"/>
+      <point x="540" y="368" type="line"/>
+      <point x="148" y="368" type="line"/>
+      <point x="154" y="358" type="line"/>
+      <point x="216" y="661" type="line"/>
+      <point x="205" y="651" type="line"/>
+      <point x="630" y="651" type="line"/>
+      <point x="637" y="687" type="line"/>
+      <point x="186" y="687" type="line"/>
+      <point x="43" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="396" y="879" type="line"/>
+      <point x="485" y="746" type="line"/>
+      <point x="533" y="746" type="line"/>
+      <point x="439" y="888" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="879" type="line"/>
+      <point x="319" y="746" type="line"/>
+      <point x="367" y="746" type="line"/>
+      <point x="273" y="888" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>70bf6f2fae1a02e48018298a657d34fe61e9891425f8b6de9efcdf5667ad5415ced6d730e8386539ac06590c8d41d087fbca8d742e4728a963ac9c6e403ab7c6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 879 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

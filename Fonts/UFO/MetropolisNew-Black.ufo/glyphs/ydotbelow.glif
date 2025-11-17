@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydotbelow" format="2">
+  <advance width="612"/>
+  <unicode hex="1EF5"/>
+  <anchor x="312" y="517" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="dotbelowcomb" xOffset="187"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>y+dotbelowcomb</string>
+  </dict>
+  </lib>
+</glyph>

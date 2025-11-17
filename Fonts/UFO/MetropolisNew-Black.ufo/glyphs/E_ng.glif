@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng" format="2">
+  <advance width="788"/>
+  <unicode hex="014A"/>
+  <anchor x="394" y="0" name="bottom"/>
+  <anchor x="623" y="517" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="dotlessj" xOffset="467"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>N+>jdotless</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

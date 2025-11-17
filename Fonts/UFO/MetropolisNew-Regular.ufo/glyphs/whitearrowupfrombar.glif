@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whitearrowupfrombar" format="2">
+  <advance width="991"/>
+  <unicode hex="21EA"/>
+  <outline>
+    <contour>
+      <point x="700" y="149" type="line"/>
+      <point x="700" y="363" type="line"/>
+      <point x="916" y="363" type="line"/>
+      <point x="496" y="784" type="line"/>
+      <point x="75" y="363" type="line"/>
+      <point x="291" y="363" type="line"/>
+      <point x="291" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="428" type="line"/>
+      <point x="234" y="428" type="line"/>
+      <point x="496" y="688" type="line"/>
+      <point x="757" y="428" type="line"/>
+      <point x="629" y="428" type="line"/>
+      <point x="629" y="213" type="line"/>
+      <point x="362" y="213" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="-152" type="line"/>
+      <point x="700" y="63" type="line"/>
+      <point x="291" y="63" type="line"/>
+      <point x="291" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="0" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="629" y="-88" type="line"/>
+      <point x="362" y="-88" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>dd5e8da94634c27ed95d690d259027a0653410a28986155e2618c40a8a8b8d48813e6cf1fed1083dcc05c3adf4e8f5580a1a2274b7616202a5500c0183e62360</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -152 64</string>
+          <string>hstem 0 63</string>
+          <string>hstem 149 64</string>
+          <string>hstem 363 65</string>
+          <string>vstem 291 71</string>
+          <string>vstem 629 71</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

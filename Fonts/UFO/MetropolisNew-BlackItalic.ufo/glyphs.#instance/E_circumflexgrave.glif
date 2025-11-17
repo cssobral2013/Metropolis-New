@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexgrave" format="2">
+  <advance width="609"/>
+  <outline>
+    <contour>
+      <point x="494" y="0" type="line"/>
+      <point x="502" y="36" type="line"/>
+      <point x="78" y="36" type="line"/>
+      <point x="85" y="26" type="line"/>
+      <point x="150" y="342" type="line"/>
+      <point x="139" y="332" type="line"/>
+      <point x="533" y="332" type="line"/>
+      <point x="540" y="368" type="line"/>
+      <point x="148" y="368" type="line"/>
+      <point x="154" y="358" type="line"/>
+      <point x="216" y="661" type="line"/>
+      <point x="205" y="651" type="line"/>
+      <point x="630" y="651" type="line"/>
+      <point x="637" y="687" type="line"/>
+      <point x="186" y="687" type="line"/>
+      <point x="43" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="461" y="935" type="line"/>
+      <point x="559" y="842" type="line"/>
+      <point x="607" y="842" type="line"/>
+      <point x="503" y="942" type="line"/>
+    </contour>
+    <contour>
+      <point x="551" y="746" type="line"/>
+      <point x="463" y="842" type="line"/>
+      <point x="419" y="842" type="line"/>
+      <point x="293" y="746" type="line"/>
+      <point x="338" y="746" type="line"/>
+      <point x="438" y="820" type="line"/>
+      <point x="508" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f7f3c02a49367f89d728e58d13b5e65bf7d47223f5eec3b7c64160e4f36f2cd1bb5078903a364322b0f493383537ba03bd1b45d4e8e419d8d6ae6bef603a5a30</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 36</string>
+          <string>hstem 332 36</string>
+          <string>hstem 651 36</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

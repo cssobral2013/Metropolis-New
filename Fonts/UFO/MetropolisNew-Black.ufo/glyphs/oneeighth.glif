@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneeighth" format="2">
+  <advance width="888"/>
+  <unicode hex="215B"/>
+  <outline>
+    <component base="one.superior"/>
+    <component base="fraction" xOffset="295"/>
+    <component base="eight.inferior" xOffset="483"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>one.superior_fraction_eight.inferior</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cdotaccent" format="2">
+  <advance width="752"/>
+  <unicode hex="010A"/>
+  <anchor x="431" y="170" name="bottom"/>
+  <anchor x="431" y="874" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="dotaccent" xOffset="343" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>C+dotaccent</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

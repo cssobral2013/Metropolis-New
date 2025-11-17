@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udotbelow" format="2">
+  <advance width="712"/>
+  <unicode hex="1EE4"/>
+  <anchor x="312" y="0" name="bottom"/>
+  <anchor x="440" y="687" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="dotbelowcomb" xOffset="112"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>U+dotbelowcomb</string>
+  </dict>
+  </lib>
+</glyph>

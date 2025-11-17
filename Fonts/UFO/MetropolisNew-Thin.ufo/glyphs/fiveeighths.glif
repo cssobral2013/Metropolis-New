@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fiveeighths" format="2">
+  <advance width="882"/>
+  <unicode hex="215D"/>
+  <outline>
+    <component base="five.superior"/>
+    <component base="fraction" xOffset="351"/>
+    <component base="eight.inferior" xOffset="517"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>five.superior_fraction_eight.inferior</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

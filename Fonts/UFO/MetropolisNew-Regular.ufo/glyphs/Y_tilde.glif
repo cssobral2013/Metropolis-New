@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ytilde" format="2">
+  <advance width="727"/>
+  <unicode hex="1EF8"/>
+  <anchor x="364" y="874" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="tilde" xOffset="166" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Y+tilde</string>
+  </dict>
+  </lib>
+</glyph>

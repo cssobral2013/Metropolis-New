@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorngrave" format="2">
+  <advance width="683"/>
+  <unicode hex="1EEB"/>
+  <anchor x="413.5" y="704" name="top"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="grave" xOffset="196"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uhorn+grave</string>
+  </dict>
+  </lib>
+</glyph>

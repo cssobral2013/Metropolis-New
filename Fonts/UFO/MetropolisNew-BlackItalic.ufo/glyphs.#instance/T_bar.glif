@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="688"/>
+  <anchor x="344" y="-0" name="bottom"/>
+  <anchor x="344" y="874" name="top"/>
+  <outline>
+    <contour>
+      <point x="308" y="0" type="line"/>
+      <point x="444" y="651" type="line"/>
+      <point x="696" y="651" type="line"/>
+      <point x="703" y="687" type="line"/>
+      <point x="163" y="687" type="line"/>
+      <point x="156" y="651" type="line"/>
+      <point x="408" y="651" type="line"/>
+      <point x="272" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="504" y="273" type="line"/>
+      <point x="511" y="309" type="line"/>
+      <point x="201" y="309" type="line"/>
+      <point x="194" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

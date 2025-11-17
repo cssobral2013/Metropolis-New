@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="2">
+  <advance width="618"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="100" y="366" type="line"/>
+      <point x="100" y="334" type="line"/>
+      <point x="485" y="334" type="line"/>
+      <point x="485" y="153" type="line"/>
+      <point x="518" y="153" type="line"/>
+      <point x="518" y="366" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>minus</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>minus</string>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohornacute" format="2">
+  <advance width="815"/>
+  <unicode hex="1EDA"/>
+  <anchor x="333.5" y="874" name="top"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="acute" xOffset="257" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ohorn+acute</string>
+  </dict>
+  </lib>
+</glyph>

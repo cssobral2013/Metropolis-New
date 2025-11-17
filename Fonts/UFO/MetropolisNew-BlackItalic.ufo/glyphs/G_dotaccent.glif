@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="725"/>
+  <unicode hex="0120"/>
+  <anchor x="403" y="170" name="bottom"/>
+  <anchor x="403" y="874" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="dotaccent" xOffset="295" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>G+dotaccent</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

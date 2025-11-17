@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="2">
+  <advance width="794"/>
+  <outline>
+    <contour>
+      <point x="602" y="175" type="line"/>
+      <point x="609" y="211" type="line"/>
+      <point x="170" y="211" type="line"/>
+      <point x="163" y="175" type="line"/>
+    </contour>
+    <contour>
+      <point x="466" y="687" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="507" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="467" y="687" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="506" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="527" y="746" type="line"/>
+      <point x="431" y="888" type="line"/>
+      <point x="389" y="879" type="line"/>
+      <point x="480" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

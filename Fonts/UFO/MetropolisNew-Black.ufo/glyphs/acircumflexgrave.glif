@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflexgrave" format="2">
+  <advance width="572"/>
+  <unicode hex="1EA7"/>
+  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="301" y="517" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflexgrave" xOffset="-13"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+circumflexgrave</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ygrave.1" format="2">
+  <advance width="593"/>
+  <outline>
+    <component base="y"/>
+    <component base="grave" xOffset="91"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w593</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -180 68</string>
+          <string>hstem 19 -21</string>
+          <string>hstem 517 -20</string>
+          <string>vstem -15 615</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

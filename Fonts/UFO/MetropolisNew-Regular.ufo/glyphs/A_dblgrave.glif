@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adblgrave" format="2">
+  <advance width="785"/>
+  <unicode hex="0200"/>
+  <anchor x="738" y="0" name="bottom"/>
+  <anchor x="393" y="687" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dblgravecomb" xOffset="129" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

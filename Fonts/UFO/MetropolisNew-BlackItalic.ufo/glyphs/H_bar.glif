@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="771"/>
+  <unicode hex="0126"/>
+  <anchor x="386" y="874" name="top"/>
+  <anchor x="386" y="457" name="_top"/>
+  <outline>
+    <component base="H"/>
+    <contour>
+      <point x="800" y="513" type="line"/>
+      <point x="822" y="619" type="line"/>
+      <point x="91" y="619" type="line"/>
+      <point x="69" y="513" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>H+macron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

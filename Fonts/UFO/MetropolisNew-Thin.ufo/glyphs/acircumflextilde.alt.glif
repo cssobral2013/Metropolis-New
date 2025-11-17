@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflextilde.alt" format="2">
+  <advance width="591"/>
+  <anchor x="523" y="0" name="bottom"/>
+  <anchor x="295" y="517" name="top"/>
+  <outline>
+    <component base="a.alt"/>
+    <component base="circumflextilde" xOffset="7"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a.alt+circumflextilde</string>
+  </dict>
+  </lib>
+</glyph>

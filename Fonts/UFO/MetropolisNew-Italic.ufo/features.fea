@@ -1,0 +1,304 @@
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CAT;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn MOL;
+languagesystem latn NLD;
+languagesystem latn ROM;
+languagesystem latn TAT;
+languagesystem latn TRK;
+#< languagesystem
+feature aalt {
+# Access All Alternates
+
+#> feature
+  feature locl;
+  feature sinf;
+  feature sups;
+  feature subs;
+  feature pnum;
+  feature tnum;
+  feature salt;
+  feature case;
+#< feature
+} aalt;
+feature locl {
+# Localized Forms
+
+#> feature
+  script latn; # Latin
+  language MOL; # Moldavian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub scedilla by scommaaccent;
+  sub tcedilla by tcommaaccent;
+
+  language ROM; # Romanian
+  sub Scedilla by Scommaaccent;
+  sub Tcedilla by Tcommaaccent;
+  sub scedilla by scommaaccent;
+  sub tcedilla by tcommaaccent;
+
+  language TRK; # Romanian
+  sub i by i.loclTRK;
+  language KAZ; # Romanian
+  sub i by i.loclTRK;
+  language AZE; # Romanian
+  sub i by i.loclTRK;
+  language CRT; # Romanian
+  sub i by i.loclTRK;
+  language TAT; # Romanian
+  sub i by i.loclTRK;
+
+  language CAT; # Romanian
+  sub l' periodcentered' l by ldot;
+  sub L' periodcentered' L by Ldot;
+  language NLD; # Romanian
+  sub Iacute J' by Jacute;
+  sub iacute j' by jacute;
+#< feature
+} locl;
+
+feature sinf {
+# Scientific Inferiors
+
+#> feature
+  sub eight by eight.inferior;
+  sub five by five.inferior;
+  sub four by four.inferior;
+  sub nine by nine.inferior;
+  sub one by one.inferior;
+  sub seven by seven.inferior;
+  sub six by six.inferior;
+  sub three by three.inferior;
+  sub two by two.inferior;
+  sub zero by zero.inferior;
+#< feature
+} sinf;
+
+feature sups {
+# Superscript
+
+#> feature
+  sub eight by eight.superior;
+  sub five by five.superior;
+  sub four by four.superior;
+  sub nine by nine.superior;
+  sub one by one.superior;
+  sub seven by seven.superior;
+  sub six by six.superior;
+  sub three by three.superior;
+  sub two by two.superior;
+  sub zero by zero.superior;
+#< feature
+} sups;
+
+feature subs {
+# Subscript
+
+#> feature
+  sub eight by eight.inferior;
+  sub five by five.inferior;
+  sub four by four.inferior;
+  sub nine by nine.inferior;
+  sub one by one.inferior;
+  sub seven by seven.inferior;
+  sub six by six.inferior;
+  sub three by three.inferior;
+  sub two by two.inferior;
+  sub zero by zero.inferior;
+#< feature
+} subs;
+
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+  sub one slash eight by oneeighth;
+  sub three slash eight by threeeighths;
+  sub five slash eight by fiveeighths;
+  sub seven slash eight by seveneighths;
+  sub one fraction four by onequarter;
+  sub one fraction two by onehalf;
+  sub three fraction four by threequarters;
+  sub one fraction eight by oneeighth;
+  sub three fraction eight by threeeighths;
+  sub five fraction eight by fiveeighths;
+  sub seven fraction eight by seveneighths;
+} frac_precomposed;
+#< feature
+} frac;
+
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+#< feature
+} ordn;
+
+feature pnum {
+# Proportional Figures
+
+#> feature
+  sub Euro.tf by Euro;
+  sub cent by cent.tf;
+  sub cent.tf.rvrn by cent.rvrn;
+  sub colon.tf by colon;
+  sub comma.tf by comma;
+  sub currrency.tf by currency;
+  sub divide.tf by divide;
+  sub dollar by dollar.tf;
+  sub dollar.tf.rvrn by dollar.rvrn;
+  sub dong.tf by dong;
+  sub eight.tf by eight;
+  sub equal.tf by equal;
+  sub five.tf by five;
+  sub four.tf by four;
+  sub greater.tf by greater;
+  sub hyphen.tf by hyphen;
+  sub less.tf by less;
+  sub minus.tf by minus;
+  sub multiply.tf by multiply;
+  sub nine.tf by nine;
+  sub one.tf by one;
+  sub period.tf by period;
+  sub plus.tf by plus;
+  sub semicolon.tf by semicolon;
+  sub seven.tf by seven;
+  sub six.tf by six;
+  sub sterling.tf by sterling;
+  sub three.tf by three;
+  sub two.tf by two;
+  sub yen.tf by yen;
+  sub zero.tf by zero;
+#< feature
+} pnum;
+
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub Euro by Euro.tf;
+  sub cent by cent.tf;
+  sub cent.rvrn by cent.tf.rvrn;
+  sub colon by colon.tf;
+  sub comma by comma.tf;
+  sub currrency by currency.tf;
+  sub divide by divide.tf;
+  sub dollar by dollar.tf;
+  sub dollar.rvrn by dollar.tf.rvrn;
+  sub dong by dong.tf;
+  sub eight by eight.tf;
+  sub equal by equal.tf;
+  sub five by five.tf;
+  sub four by four.tf;
+  sub greater by greater.tf;
+  sub hyphen by hyphen.tf;
+  sub less by less.tf;
+  sub minus by minus.tf;
+  sub multiply by multiply.tf;
+  sub nine by nine.tf;
+  sub one by one.tf;
+  sub period by period.tf;
+  sub plus by plus.tf;
+  sub semicolon by semicolon.tf;
+  sub seven by seven.tf;
+  sub six by six.tf;
+  sub sterling by sterling.tf;
+  sub three by three.tf;
+  sub two by two.tf;
+  sub yen by yen.tf;
+  sub zero by zero.tf;
+#< feature
+} tnum;
+
+feature salt {
+# Stylistic Alternates
+
+#> feature
+  sub a from [a.alt];
+  sub aacute from [aacute.alt];
+  sub abreve from [abreve.alt];
+  sub abreveacute from [abreveacute.alt];
+  sub abrevedotbelow from [abrevedotbelow.alt];
+  sub abrevegrave from [abrevegrave.alt];
+  sub abrevehoi from [abrevehoi.alt];
+  sub abrevetilde from [abrevetilde.alt];
+  sub acircumflex from [acircumflex.alt];
+  sub acircumflexacute from [acircumflexacute.alt];
+  sub acircumflexdotbelow from [acircumflexdotbelow.alt];
+  sub acircumflexgrave from [acircumflexgrave.alt];
+  sub acircumflexhoi from [acircumflexhoi.alt];
+  sub acircumflextilde from [acircumflextilde.alt];
+  sub adblgrave from [adblgrave.alt];
+  sub adieresis from [adieresis.alt];
+  sub adotbelow from [adotbelow.alt];
+  sub agrave from [agrave.alt];
+  sub ahoi from [ahoi.alt];
+  sub ainvertedbreve from [ainvertedbreve.alt];
+  sub amacron from [amacron.alt];
+  sub aogonek from [aogonek.alt];
+  sub aring from [aring.alt];
+  sub aringacute from [aringacute.alt];
+  sub atilde from [atilde.alt];
+#< feature
+} salt;
+
+feature case {
+# Case Sensitive Forms
+
+#> feature
+  sub breveacute by breveacute.case;
+  sub brevegrave by brevegrave.case;
+  sub brevehoi by brevehoi.case;
+  sub brevetilde by brevetilde.case;
+  sub circumflexacute by circumflexacute.case;
+  sub circumflexgrave by circumflexgrave.case;
+  sub circumflexhoi by circumflexhoi.case;
+  sub circumflextilde by circumflextilde.case;
+  sub ringacute by ringacute.case;
+#< feature
+} case;
+
+feature ss01 {
+# Stylistic Set 01–20
+
+#> feature
+  sub a from [a.alt];
+  sub aacute from [aacute.alt];
+  sub abreve from [abreve.alt];
+  sub abreveacute from [abreveacute.alt];
+  sub abrevedotbelow from [abrevedotbelow.alt];
+  sub abrevegrave from [abrevegrave.alt];
+  sub abrevehoi from [abrevehoi.alt];
+  sub abrevetilde from [abrevetilde.alt];
+  sub acircumflex from [acircumflex.alt];
+  sub acircumflexacute from [acircumflexacute.alt];
+  sub acircumflexdotbelow from [acircumflexdotbelow.alt];
+  sub acircumflexgrave from [acircumflexgrave.alt];
+  sub acircumflexhoi from [acircumflexhoi.alt];
+  sub acircumflextilde from [acircumflextilde.alt];
+  sub adblgrave from [adblgrave.alt];
+  sub adieresis from [adieresis.alt];
+  sub adotbelow from [adotbelow.alt];
+  sub agrave from [agrave.alt];
+  sub ahoi from [ahoi.alt];
+  sub ainvertedbreve from [ainvertedbreve.alt];
+  sub amacron from [amacron.alt];
+  sub aogonek from [aogonek.alt];
+  sub aring from [aring.alt];
+  sub aringacute from [aringacute.alt];
+  sub atilde from [atilde.alt];
+#< feature
+} ss01;
+

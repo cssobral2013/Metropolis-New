@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreveacute" format="2">
+  <advance width="785"/>
+  <unicode hex="1EAE"/>
+  <anchor x="738" y="0" name="bottom"/>
+  <anchor x="393" y="687" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="breveacute.case" xOffset="16"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+breveacute.case</string>
+  </dict>
+  </lib>
+</glyph>

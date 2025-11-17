@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevetilde" format="2">
+  <advance width="573"/>
+  <outline>
+    <contour>
+      <point x="228" y="808" type="curve" smooth="yes"/>
+      <point x="258" y="808"/>
+      <point x="308" y="742"/>
+      <point x="357" y="742" type="curve" smooth="yes"/>
+      <point x="424" y="742"/>
+      <point x="446" y="804"/>
+      <point x="453" y="861" type="curve"/>
+      <point x="407" y="868" type="line"/>
+      <point x="403" y="840"/>
+      <point x="392" y="800"/>
+      <point x="357" y="800" type="curve" smooth="yes"/>
+      <point x="327" y="800"/>
+      <point x="277" y="866"/>
+      <point x="228" y="866" type="curve" smooth="yes"/>
+      <point x="161" y="866"/>
+      <point x="139" y="804"/>
+      <point x="132" y="747" type="curve"/>
+      <point x="178" y="740" type="line"/>
+      <point x="182" y="768"/>
+      <point x="193" y="808"/>
+    </contour>
+    <contour>
+      <point x="392" y="696" type="line"/>
+      <point x="365" y="670"/>
+      <point x="331" y="654"/>
+      <point x="293" y="654" type="curve" smooth="yes"/>
+      <point x="255" y="654"/>
+      <point x="221" y="670"/>
+      <point x="194" y="696" type="curve"/>
+      <point x="147" y="649" type="line"/>
+      <point x="187" y="610"/>
+      <point x="237" y="589"/>
+      <point x="293" y="589" type="curve" smooth="yes"/>
+      <point x="349" y="589"/>
+      <point x="399" y="609"/>
+      <point x="439" y="649" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c6a3b1552ab221ccd498ce4df02ba72709192da85ff8573608089b25c96c81c7d4d075f0dc0553999155c5f00c3f49c56882d009377ba17452b3d4d5c5ebaa37</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 66</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 262 63</string>
+          <string>hstem 465 64</string>
+          <string>hstem 589 65</string>
+          <string>hstem 696 -20</string>
+          <string>hstem 742 58</string>
+          <string>hstem 808 58</string>
+          <string>vstem 50 73</string>
+          <string>vstem 132 46</string>
+          <string>vstem 407 46</string>
+          <string>vstem 421 75</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

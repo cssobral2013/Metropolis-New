@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotbelow" format="2">
+  <advance width="186"/>
+  <unicode hex="1ECB"/>
+  <outline>
+    <component base="i"/>
+    <component base="dotbelowcomb" xOffset="-214"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w186</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -157 60</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 517 -20</string>
+          <string>hstem 631 60</string>
+          <string>hstem 691 -20</string>
+          <string>vstem -13 60</string>
+          <string>vstem 146 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

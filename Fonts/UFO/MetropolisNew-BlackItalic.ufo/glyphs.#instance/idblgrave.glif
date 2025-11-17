@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idblgrave" format="2">
+  <advance width="172"/>
+  <anchor x="104" y="-0" name="bottom"/>
+  <anchor x="86" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="156" y="517" type="line"/>
+      <point x="120" y="517" type="line"/>
+      <point x="12" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="709" type="line"/>
+      <point x="271" y="576" type="line"/>
+      <point x="319" y="576" type="line"/>
+      <point x="225" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="709" type="line"/>
+      <point x="105" y="576" type="line"/>
+      <point x="153" y="576" type="line"/>
+      <point x="59" y="718" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w172m48,0l156,517l120,517l12,0m325,709l414,576l462,576l368,718m159,709l248,576l296,576l202,718</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 709 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

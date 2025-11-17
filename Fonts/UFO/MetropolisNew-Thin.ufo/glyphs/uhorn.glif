@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn" format="2">
+  <advance width="552"/>
+  <unicode hex="01B0"/>
+  <outline>
+    <contour>
+      <point x="475" y="497" type="line"/>
+      <point x="542" y="510"/>
+      <point x="579" y="573"/>
+      <point x="579" y="638" type="curve"/>
+      <point x="544" y="638" type="line"/>
+      <point x="544" y="578"/>
+      <point x="513" y="517"/>
+      <point x="453" y="517" type="curve" smooth="yes"/>
+      <point x="439" y="517" type="line"/>
+      <point x="439" y="187" type="line" smooth="yes"/>
+      <point x="439" y="90"/>
+      <point x="370" y="24"/>
+      <point x="274" y="24" type="curve" smooth="yes"/>
+      <point x="179" y="24"/>
+      <point x="112" y="87"/>
+      <point x="112" y="183" type="curve" smooth="yes"/>
+      <point x="112" y="517" type="line"/>
+      <point x="76" y="517" type="line"/>
+      <point x="76" y="178" type="line" smooth="yes"/>
+      <point x="76" y="65"/>
+      <point x="157" y="-12"/>
+      <point x="269" y="-12" type="curve" smooth="yes"/>
+      <point x="342" y="-12"/>
+      <point x="410" y="21"/>
+      <point x="439" y="90" type="curve"/>
+      <point x="439" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ba2d5ea990ca7b6fd78c86eb33687478b45c05e4a1a2efec2560ca9a44dc61c5f773b19ae7daaa40ce7a88e443d01d7688c668406fe0f99595818c5855ff1258</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 36</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 497 20</string>
+          <string>vstem 76 36</string>
+          <string>vstem 439 36</string>
+          <string>vstem 544 35</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexdotbelow" format="2">
+  <advance width="568"/>
+  <unicode hex="1EC7"/>
+  <outline>
+    <component base="ecircumflex"/>
+    <component base="dotbelowcomb" xOffset="-42"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w568</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -172 99</string>
+          <string>hstem -12 67</string>
+          <string>hstem 230 67</string>
+          <string>hstem 462 67</string>
+          <string>hstem 576 137</string>
+          <string>vstem 43 74</string>
+          <string>vstem 170 99</string>
+          <string>vstem 471 74</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="carriagereturn" format="2">
+  <advance width="1016"/>
+  <unicode hex="21B5"/>
+  <outline>
+    <contour>
+      <point x="358" y="244" type="line"/>
+      <point x="926" y="244" type="line"/>
+      <point x="926" y="728" type="line"/>
+      <point x="780" y="728" type="line"/>
+      <point x="780" y="392" type="line"/>
+      <point x="358" y="392" type="line"/>
+      <point x="358" y="579" type="line"/>
+      <point x="91" y="318" type="line"/>
+      <point x="358" y="58" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1016m358,244l926,244l926,728l780,728l780,392l358,392l358,579l91,318l358,58</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 244 148</string>
+          <string>vstem 780 146</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

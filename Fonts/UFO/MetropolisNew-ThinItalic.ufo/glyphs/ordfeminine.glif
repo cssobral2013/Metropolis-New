@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="2">
+  <advance width="316"/>
+  <unicode hex="00AA"/>
+  <anchor x="294" y="377" name="bottom"/>
+  <anchor x="236" y="687" name="top"/>
+  <outline>
+    <contour>
+      <point x="294" y="377" type="line"/>
+      <point x="333" y="564"/>
+      <point x="337" y="574"/>
+      <point x="337" y="600" type="curve" smooth="yes"/>
+      <point x="337" y="656"/>
+      <point x="303" y="694"/>
+      <point x="231" y="694" type="curve" smooth="yes"/>
+      <point x="203" y="694"/>
+      <point x="165" y="687"/>
+      <point x="116" y="665" type="curve"/>
+      <point x="129" y="627" type="line"/>
+      <point x="160" y="642"/>
+      <point x="194" y="656"/>
+      <point x="227" y="656" type="curve" smooth="yes"/>
+      <point x="278" y="656"/>
+      <point x="293" y="628"/>
+      <point x="293" y="596" type="curve" smooth="yes"/>
+      <point x="293" y="577"/>
+      <point x="291" y="576"/>
+      <point x="249" y="377" type="curve"/>
+    </contour>
+    <contour>
+      <point x="142" y="370" type="curve" smooth="yes"/>
+      <point x="190" y="370"/>
+      <point x="252" y="396"/>
+      <point x="275" y="449" type="curve"/>
+      <point x="269" y="476" type="line"/>
+      <point x="249" y="432"/>
+      <point x="194" y="409"/>
+      <point x="152" y="409" type="curve" smooth="yes"/>
+      <point x="114" y="409"/>
+      <point x="89" y="426"/>
+      <point x="89" y="455" type="curve" smooth="yes"/>
+      <point x="89" y="500"/>
+      <point x="140" y="534"/>
+      <point x="192" y="534" type="curve" smooth="yes"/>
+      <point x="233" y="534"/>
+      <point x="269" y="528"/>
+      <point x="300" y="516" type="curve"/>
+      <point x="303" y="547" type="line"/>
+      <point x="270" y="561"/>
+      <point x="228" y="572"/>
+      <point x="186" y="572" type="curve" smooth="yes"/>
+      <point x="114" y="572"/>
+      <point x="45" y="523"/>
+      <point x="45" y="450" type="curve" smooth="yes"/>
+      <point x="45" y="400"/>
+      <point x="84" y="370"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

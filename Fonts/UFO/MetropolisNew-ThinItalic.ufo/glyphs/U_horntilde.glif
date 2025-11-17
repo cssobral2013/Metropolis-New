@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorntilde" format="2">
+  <advance width="704"/>
+  <unicode hex="1EEE"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="tilde" xOffset="145" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w704</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 36</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 756 36</string>
+          <string>hstem 822 36</string>
+          <string>vstem 80 36</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

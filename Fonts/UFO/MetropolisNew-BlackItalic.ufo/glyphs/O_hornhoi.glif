@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohornhoi" format="2">
+  <advance width="815"/>
+  <unicode hex="1EDE"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="hookabovecomb" xOffset="107" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w815</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 176</string>
+          <string>hstem 523 176</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 847 93</string>
+          <string>vstem 47 197</string>
+          <string>vstem 524 138</string>
+          <string>vstem 606 197</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

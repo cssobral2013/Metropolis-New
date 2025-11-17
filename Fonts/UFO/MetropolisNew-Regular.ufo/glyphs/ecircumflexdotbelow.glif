@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexdotbelow" format="2">
+  <advance width="568"/>
+  <unicode hex="1EC7"/>
+  <outline>
+    <component base="ecircumflex"/>
+    <component base="dotbelowcomb" xOffset="-42"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ecircumflex+dotbelowcomb</string>
+  </dict>
+  </lib>
+</glyph>

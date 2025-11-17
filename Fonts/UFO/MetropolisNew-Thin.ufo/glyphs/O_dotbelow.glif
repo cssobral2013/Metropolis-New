@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odotbelow" format="2">
+  <advance width="861"/>
+  <unicode hex="1ECC"/>
+  <anchor x="431" y="687" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotbelowcomb" xOffset="131"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+dotbelowcomb</string>
+  </dict>
+  </lib>
+</glyph>

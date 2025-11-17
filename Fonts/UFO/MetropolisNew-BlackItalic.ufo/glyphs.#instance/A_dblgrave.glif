@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adblgrave" format="2">
+  <advance width="794"/>
+  <anchor x="666" y="-0" name="bottom"/>
+  <anchor x="488" y="687" name="top"/>
+  <outline>
+    <contour>
+      <point x="602" y="175" type="line"/>
+      <point x="609" y="211" type="line"/>
+      <point x="170" y="211" type="line"/>
+      <point x="163" y="175" type="line"/>
+    </contour>
+    <contour>
+      <point x="466" y="687" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="507" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="467" y="687" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="506" y="687" type="line"/>
+    </contour>
+    <contour>
+      <point x="481" y="879" type="line"/>
+      <point x="570" y="746" type="line"/>
+      <point x="618" y="746" type="line"/>
+      <point x="524" y="888" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="879" type="line"/>
+      <point x="404" y="746" type="line"/>
+      <point x="452" y="746" type="line"/>
+      <point x="358" y="888" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>06e94761728f2e91f1e485e96b55675bce560b99715850c5533cfcc4328cff7d99fbaee6900d8996f22faa83e63291554b9f29ae47180d3e7c5a0c5dd2a8307f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 879 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

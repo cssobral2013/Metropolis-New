@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ihoi" format="2">
+  <advance width="186"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="156" y="517" type="line"/>
+      <point x="120" y="517" type="line"/>
+      <point x="12" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="127.37" y="571" type="line"/>
+      <point x="161.37" y="571" type="line"/>
+      <point x="165.196" y="589" type="line"/>
+      <point x="202.384" y="604"/>
+      <point x="242.698" y="629"/>
+      <point x="251.413" y="670" type="curve" smooth="yes"/>
+      <point x="261.828" y="719"/>
+      <point x="225.442" y="736"/>
+      <point x="182.442" y="736" type="curve" smooth="yes"/>
+      <point x="156.442" y="736"/>
+      <point x="129.529" y="727"/>
+      <point x="103.978" y="715" type="curve"/>
+      <point x="99.1133" y="678" type="line"/>
+      <point x="125.239" y="688"/>
+      <point x="151.215" y="702"/>
+      <point x="178.215" y="702" type="curve" smooth="yes"/>
+      <point x="200.215" y="702"/>
+      <point x="223.152" y="697"/>
+      <point x="217.413" y="670" type="curve" smooth="yes"/>
+      <point x="209.973" y="635"/>
+      <point x="165.36" y="618"/>
+      <point x="135.66" y="610" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>25b7f481c10ca246f3b113141bb6da38fa189e9b216d3ee28539e29f0c406f0d3cb149d4afa2d6e2f68cece034c1f7a4dcc77f946605119acf4ecdd7d54910a9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 517 -20</string>
+          <string>hstem 571 39</string>
+          <string>hstem 702 34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

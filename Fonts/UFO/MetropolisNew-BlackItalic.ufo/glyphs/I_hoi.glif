@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ihoi" format="2">
+  <advance width="321"/>
+  <unicode hex="1EC8"/>
+  <outline>
+    <component base="I"/>
+    <component base="hookabovecomb" xOffset="-138" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w321</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 847 93</string>
+          <string>vstem 10 411</string>
+          <string>vstem 283 138</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreveacute" format="2">
+  <advance width="775"/>
+  <unicode hex="1EAE"/>
+  <outline>
+    <component base="A"/>
+    <component base="breveacute.case" xOffset="-7"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w775</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 92 143</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 745 102</string>
+          <string>vstem -27 803</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

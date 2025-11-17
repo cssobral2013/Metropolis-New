@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Germandbls" format="2">
+  <advance width="1228"/>
+  <unicode hex="1E9E"/>
+  <anchor x="874" y="-0" name="bottom"/>
+  <anchor x="1013" y="687" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="S" xOffset="614"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>S_S</string>
+  </dict>
+  </lib>
+</glyph>

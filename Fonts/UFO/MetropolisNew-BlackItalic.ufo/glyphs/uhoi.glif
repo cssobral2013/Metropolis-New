@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhoi" format="2">
+  <advance width="627"/>
+  <unicode hex="1EE7"/>
+  <outline>
+    <component base="u"/>
+    <component base="hookabovecomb" xOffset="14"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w627</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 148</string>
+          <string>hstem 9 -21</string>
+          <string>hstem 517 -20</string>
+          <string>hstem 677 93</string>
+          <string>vstem 31 192</string>
+          <string>vstem 31 599</string>
+          <string>vstem 395 138</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

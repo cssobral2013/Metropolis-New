@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflextilde" format="2">
+  <advance width="597"/>
+  <unicode hex="1EC5"/>
+  <anchor x="304" y="-12" name="bottom"/>
+  <anchor x="304" y="517" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflextilde" xOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+circumflextilde</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflexhoi" format="2">
+  <advance width="603"/>
+  <unicode hex="1ED5"/>
+  <anchor x="302" y="517" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexhoi" xOffset="13"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+circumflexhoi</string>
+  </dict>
+  </lib>
+</glyph>

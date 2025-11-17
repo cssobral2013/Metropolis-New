@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adotbelow" format="2">
+  <advance width="536"/>
+  <unicode hex="1EA1"/>
+  <outline>
+    <component base="a"/>
+    <component base="dotbelowcomb" xOffset="-32"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w536</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -157 60</string>
+          <string>hstem -12 36</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 493 36</string>
+          <string>hstem 517 -20</string>
+          <string>vstem 48 36</string>
+          <string>vstem 201 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udotbelow" format="2">
+  <advance width="704"/>
+  <unicode hex="1EE4"/>
+  <outline>
+    <contour>
+      <point x="350" y="-97" type="curve" smooth="yes"/>
+      <point x="333" y="-97"/>
+      <point x="320" y="-110"/>
+      <point x="320" y="-127" type="curve" smooth="yes"/>
+      <point x="320" y="-144"/>
+      <point x="333" y="-157"/>
+      <point x="350" y="-157" type="curve" smooth="yes"/>
+      <point x="366" y="-157"/>
+      <point x="380" y="-143"/>
+      <point x="380" y="-127" type="curve" smooth="yes"/>
+      <point x="380" y="-111"/>
+      <point x="366" y="-97"/>
+    </contour>
+    <contour>
+      <point x="86" y="265" type="line" smooth="yes"/>
+      <point x="86" y="106"/>
+      <point x="190" y="-12"/>
+      <point x="352" y="-12" type="curve" smooth="yes"/>
+      <point x="514" y="-12"/>
+      <point x="618" y="106"/>
+      <point x="618" y="265" type="curve" smooth="yes"/>
+      <point x="618" y="687" type="line"/>
+      <point x="582" y="687" type="line"/>
+      <point x="582" y="265" type="line" smooth="yes"/>
+      <point x="582" y="128"/>
+      <point x="492" y="24"/>
+      <point x="352" y="24" type="curve" smooth="yes"/>
+      <point x="212" y="24"/>
+      <point x="122" y="128"/>
+      <point x="122" y="265" type="curve" smooth="yes"/>
+      <point x="122" y="687" type="line"/>
+      <point x="86" y="687" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7c2d2702884314a419638d3252ad12adb4f531db16c68179248515a4bc76a387b71a8af59f63a8ea04863238ae643f30a88417ca4934bb58eb8b43f21d9063b5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -157 60</string>
+          <string>hstem -12 36</string>
+          <string>hstem 687 -20</string>
+          <string>vstem 86 36</string>
+          <string>vstem 320 60</string>
+          <string>vstem 582 36</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexacute" format="2">
+  <advance width="861"/>
+  <unicode hex="1ED0"/>
+  <anchor x="431" y="687" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexacute.case" xOffset="77"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+circumflexacute.case</string>
+  </dict>
+  </lib>
+</glyph>

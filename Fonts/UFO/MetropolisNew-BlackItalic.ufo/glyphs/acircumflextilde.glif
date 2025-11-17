@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflextilde" format="2">
+  <advance width="572"/>
+  <unicode hex="1EAB"/>
+  <anchor x="478" y="0" name="bottom"/>
+  <anchor x="326" y="517" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflextilde" xOffset="-58"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  <key>com.fontlab.recipe</key>
+  <string>a+circumflextilde</string>
+  </dict>
+  </lib>
+</glyph>

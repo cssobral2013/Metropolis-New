@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohoi" format="2">
+  <advance width="811"/>
+  <unicode hex="1ECE"/>
+  <anchor x="406" y="687" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="hookabovecomb" xOffset="110" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+hookabovecomb</string>
+  </dict>
+  </lib>
+</glyph>

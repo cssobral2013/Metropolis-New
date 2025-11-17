@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorntilde" format="2">
+  <advance width="813"/>
+  <unicode hex="1EEE"/>
+  <anchor x="407" y="874" name="top"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="tilde" xOffset="195" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Uhorn+tilde</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorndotbelow" format="2">
+  <advance width="704"/>
+  <outline>
+    <contour>
+      <point x="299" y="-12" type="curve" smooth="yes"/>
+      <point x="463" y="-12"/>
+      <point x="586" y="108"/>
+      <point x="619" y="264" type="curve" smooth="yes"/>
+      <point x="703" y="666" type="line"/>
+      <point x="773" y="682"/>
+      <point x="822" y="738"/>
+      <point x="836" y="808" type="curve"/>
+      <point x="801" y="808" type="line"/>
+      <point x="788" y="745"/>
+      <point x="744" y="691"/>
+      <point x="678" y="687" type="curve"/>
+      <point x="671" y="687" type="line"/>
+      <point x="584" y="266" type="line"/>
+      <point x="554" y="128"/>
+      <point x="446" y="24"/>
+      <point x="301" y="24" type="curve" smooth="yes"/>
+      <point x="192" y="24"/>
+      <point x="116" y="92"/>
+      <point x="116" y="203" type="curve" smooth="yes"/>
+      <point x="116" y="223"/>
+      <point x="119" y="244"/>
+      <point x="123" y="264" type="curve" smooth="yes"/>
+      <point x="211" y="687" type="line"/>
+      <point x="175" y="687" type="line"/>
+      <point x="88" y="266" type="line" smooth="yes"/>
+      <point x="83" y="243"/>
+      <point x="80" y="220"/>
+      <point x="80" y="196" type="curve" smooth="yes"/>
+      <point x="80" y="65"/>
+      <point x="172" y="-12"/>
+    </contour>
+    <contour>
+      <point x="276.382" y="-97" type="curve" smooth="yes"/>
+      <point x="259.382" y="-97"/>
+      <point x="243.619" y="-110"/>
+      <point x="240.005" y="-127" type="curve" smooth="yes"/>
+      <point x="236.392" y="-144"/>
+      <point x="246.629" y="-157"/>
+      <point x="263.629" y="-157" type="curve" smooth="yes"/>
+      <point x="279.629" y="-157"/>
+      <point x="296.604" y="-143"/>
+      <point x="300.005" y="-127" type="curve" smooth="yes"/>
+      <point x="303.406" y="-111"/>
+      <point x="292.382" y="-97"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>75e447e4dd4d01ff6ece2d47253751eaa13d8c6fe8fca265c6ccf5a9c7b5668c2a9bdceed99874910e0dbe21d4f54b6e4449f3e2ac2d49334e6d8b1af94bc52c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -157 60</string>
+          <string>hstem -12 36</string>
+          <string>hstem 691 -20</string>
+          <string>vstem 80 36</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

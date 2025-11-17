@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexdotbelow" format="2">
+  <advance width="808"/>
+  <unicode hex="1ED8"/>
+  <outline>
+    <component base="Ocircumflex"/>
+    <component base="dotbelowcomb" xOffset="80"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w808</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -172 99</string>
+          <string>hstem -12 72</string>
+          <string>hstem 627 72</string>
+          <string>hstem 746 137</string>
+          <string>vstem 64 79</string>
+          <string>vstem 256 99</string>
+          <string>vstem 702 78</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

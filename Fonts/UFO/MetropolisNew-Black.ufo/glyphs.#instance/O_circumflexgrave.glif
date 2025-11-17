@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexgrave" format="2">
+  <advance width="811"/>
+  <anchor x="406" y="687" name="top"/>
+  <outline>
+    <contour>
+      <point x="406" y="-12" type="curve" smooth="yes"/>
+      <point x="597" y="-12"/>
+      <point x="757" y="151"/>
+      <point x="757" y="344" type="curve" smooth="yes"/>
+      <point x="757" y="537"/>
+      <point x="597" y="699"/>
+      <point x="406" y="699" type="curve" smooth="yes"/>
+      <point x="216" y="699"/>
+      <point x="54" y="537"/>
+      <point x="54" y="344" type="curve" smooth="yes"/>
+      <point x="54" y="151"/>
+      <point x="216" y="-12"/>
+    </contour>
+    <contour>
+      <point x="406" y="60" type="curve" smooth="yes"/>
+      <point x="258" y="60"/>
+      <point x="133" y="190"/>
+      <point x="133" y="344" type="curve" smooth="yes"/>
+      <point x="133" y="497"/>
+      <point x="258" y="627"/>
+      <point x="406" y="627" type="curve" smooth="yes"/>
+      <point x="554" y="627"/>
+      <point x="678" y="497"/>
+      <point x="678" y="344" type="curve" smooth="yes"/>
+      <point x="678" y="190"/>
+      <point x="554" y="60"/>
+    </contour>
+    <contour>
+      <point x="397" y="930" type="line"/>
+      <point x="539" y="842" type="line"/>
+      <point x="597" y="842" type="line"/>
+      <point x="476" y="943" type="line"/>
+    </contour>
+    <contour>
+      <point x="547" y="746" type="line"/>
+      <point x="445" y="842" type="line"/>
+      <point x="375" y="842" type="line"/>
+      <point x="275" y="746" type="line"/>
+      <point x="332" y="746" type="line"/>
+      <point x="410" y="806" type="line"/>
+      <point x="489" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2e17a12752a2a639cb344defcad22b5bcf5ffd6108b5c197403f4c0944824d8321c2bf4464d02755dde1e655794a29c770834025f5115a228345ebff6e77c727</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 746 96</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
