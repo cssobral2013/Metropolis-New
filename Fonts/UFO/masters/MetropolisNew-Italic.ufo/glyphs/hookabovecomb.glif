@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb" format="2">
+  <advance width="573"/>
+  <unicode hex="0309"/>
+  <outline>
+    <contour>
+      <point x="369.582" y="572" type="line"/>
+      <point x="413.582" y="572" type="line"/>
+      <point x="418.471" y="595" type="line"/>
+      <point x="460.659" y="610"/>
+      <point x="509.186" y="636"/>
+      <point x="519.176" y="683" type="curve" smooth="yes"/>
+      <point x="530.229" y="735"/>
+      <point x="485.63" y="751"/>
+      <point x="441.63" y="751" type="curve" smooth="yes"/>
+      <point x="410.63" y="751"/>
+      <point x="377.93" y="743"/>
+      <point x="347.379" y="731" type="curve"/>
+      <point x="341.814" y="686" type="line"/>
+      <point x="367.152" y="697"/>
+      <point x="397.49" y="708"/>
+      <point x="423.49" y="708" type="curve" smooth="yes"/>
+      <point x="445.49" y="708"/>
+      <point x="468.427" y="703"/>
+      <point x="462.688" y="676" type="curve" smooth="yes"/>
+      <point x="455.886" y="644"/>
+      <point x="404.635" y="624"/>
+      <point x="378.722" y="615" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0602c30008bf03f271277a18fee74cccfa2b0709c2bb38f77a8301507e2ca60ff13d6bb438d582ab86154d017234db5f073a1290513f5e5dd40360287395638f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 572 43</string>
+          <string>hstem 708 43</string>
+          <string>vstem 261 44</string>
+          <string>vstem 332 55</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

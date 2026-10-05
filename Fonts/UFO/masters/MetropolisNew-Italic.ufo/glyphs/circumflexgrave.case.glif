@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexgrave.case" format="2">
+  <advance width="755"/>
+  <outline>
+    <contour>
+      <point x="500" y="930" type="line"/>
+      <point x="623" y="842" type="line"/>
+      <point x="681" y="842" type="line"/>
+      <point x="581" y="943" type="line"/>
+    </contour>
+    <contour>
+      <point x="611" y="746" type="line"/>
+      <point x="529" y="842" type="line"/>
+      <point x="459" y="842" type="line"/>
+      <point x="339" y="746" type="line"/>
+      <point x="398" y="746" type="line"/>
+      <point x="489" y="806" type="line"/>
+      <point x="555" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w755m500,930l623,842l681,842l581,943m611,746l529,842l459,842l339,746l398,746l489,806l555,746</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 401.46 -21</string>
+          <string>hstem 456.9 36.26</string>
+          <string>hstem 670.05 47.04</string>
+          <string>hstem 717.09 -20</string>
+          <string>hstem 746 67.13</string>
+          <string>vstem 92 691</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
