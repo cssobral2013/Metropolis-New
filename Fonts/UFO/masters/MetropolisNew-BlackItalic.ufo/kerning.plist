@@ -35,7 +35,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-130</integer>
+    <integer>-13</integer>
     <key>yen</key>
     <integer>-20</integer>
     <key>public.kern2.R_A</key>
@@ -132,7 +132,7 @@
     <key>trademark</key>
     <integer>-90</integer>
     <key>underscore</key>
-    <integer>-190</integer>
+    <integer>-19</integer>
     <key>yen</key>
     <integer>-70</integer>
     <key>public.kern2.R_A</key>
@@ -265,7 +265,7 @@
     <key>trademark</key>
     <integer>-20</integer>
     <key>underscore</key>
-    <integer>-250</integer>
+    <integer>-25</integer>
     <key>yen</key>
     <integer>-50</integer>
     <key>public.kern2.R_A</key>
@@ -414,7 +414,7 @@
     <key>trademark</key>
     <integer>-90</integer>
     <key>underscore</key>
-    <integer>-245</integer>
+    <integer>-25</integer>
     <key>yen</key>
     <integer>-55</integer>
     <key>public.kern2.R_A</key>
@@ -531,7 +531,7 @@
     <key>sterling</key>
     <integer>-55</integer>
     <key>underscore</key>
-    <integer>-215</integer>
+    <integer>-22</integer>
     <key>yen</key>
     <integer>-20</integer>
     <key>public.kern2.R_A</key>
@@ -660,7 +660,7 @@
     <key>trademark</key>
     <integer>-25</integer>
     <key>underscore</key>
-    <integer>-110</integer>
+    <integer>-11</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -1071,7 +1071,7 @@
     <key>trademark</key>
     <integer>-25</integer>
     <key>underscore</key>
-    <integer>-45</integer>
+    <integer>-5</integer>
     <key>yen</key>
     <integer>-50</integer>
     <key>public.kern2.R_A</key>
@@ -1316,7 +1316,7 @@
     <key>trademark</key>
     <integer>-75</integer>
     <key>underscore</key>
-    <integer>-75</integer>
+    <integer>-8</integer>
     <key>yen</key>
     <integer>-90</integer>
     <key>public.kern2.R_A</key>
@@ -1605,7 +1605,7 @@
     <key>trademark</key>
     <integer>-85</integer>
     <key>underscore</key>
-    <integer>-190</integer>
+    <integer>-19</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -1700,7 +1700,7 @@
     <key>trademark</key>
     <integer>-20</integer>
     <key>underscore</key>
-    <integer>-85</integer>
+    <integer>-9</integer>
     <key>yen</key>
     <integer>-50</integer>
     <key>public.kern2.R_A</key>
@@ -1795,7 +1795,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-40</integer>
+    <integer>-4</integer>
     <key>yen</key>
     <integer>-50</integer>
     <key>public.kern2.R_A</key>
@@ -1944,7 +1944,7 @@
     <key>trademark</key>
     <integer>-155</integer>
     <key>underscore</key>
-    <integer>-10</integer>
+    <integer>-1</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_C</key>
@@ -2093,7 +2093,7 @@
     <key>trademark</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-105</integer>
+    <integer>-11</integer>
     <key>yen</key>
     <integer>-70</integer>
     <key>public.kern2.R_A</key>
@@ -2208,7 +2208,7 @@
     <key>sterling</key>
     <integer>-95</integer>
     <key>underscore</key>
-    <integer>-210</integer>
+    <integer>-21</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_A</key>
@@ -2319,7 +2319,7 @@
     <key>sterling</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-275</integer>
+    <integer>-28</integer>
     <key>yen</key>
     <integer>-45</integer>
     <key>public.kern2.R_A</key>
@@ -2418,7 +2418,7 @@
     <key>trademark</key>
     <integer>-100</integer>
     <key>underscore</key>
-    <integer>-120</integer>
+    <integer>-12</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -2563,7 +2563,7 @@
     <key>trademark</key>
     <integer>-385</integer>
     <key>underscore</key>
-    <integer>-45</integer>
+    <integer>-5</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -2698,7 +2698,7 @@
     <key>trademark</key>
     <integer>-85</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-50</integer>
     <key>public.kern2.R_A</key>
@@ -2791,7 +2791,7 @@
     <key>trademark</key>
     <integer>-85</integer>
     <key>underscore</key>
-    <integer>-285</integer>
+    <integer>-29</integer>
     <key>yen</key>
     <integer>-50</integer>
     <key>public.kern2.R_A</key>
@@ -2858,7 +2858,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-20</integer>
     <key>public.kern2.R_A</key>
@@ -2933,7 +2933,7 @@
     <key>sterling</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-300</integer>
+    <integer>-30</integer>
     <key>yen</key>
     <integer>-45</integer>
     <key>public.kern2.R_A</key>
@@ -3044,7 +3044,7 @@
     <key>trademark</key>
     <integer>-65</integer>
     <key>underscore</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_A</key>
@@ -3275,7 +3275,7 @@
     <key>trademark</key>
     <integer>-75</integer>
     <key>underscore</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_A</key>
@@ -3482,7 +3482,7 @@
     <key>trademark</key>
     <integer>-65</integer>
     <key>underscore</key>
-    <integer>-185</integer>
+    <integer>-19</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_A</key>
@@ -3713,7 +3713,7 @@
     <key>trademark</key>
     <integer>-75</integer>
     <key>underscore</key>
-    <integer>-185</integer>
+    <integer>-19</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_A</key>
@@ -3902,7 +3902,7 @@
     <key>trademark</key>
     <integer>-85</integer>
     <key>underscore</key>
-    <integer>-180</integer>
+    <integer>-18</integer>
     <key>yen</key>
     <integer>-50</integer>
     <key>public.kern2.R_A</key>
@@ -3965,7 +3965,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-300</integer>
+    <integer>-30</integer>
     <key>public.kern2.R_J</key>
     <integer>25</integer>
     <key>public.kern2.R_j</key>
@@ -4028,7 +4028,7 @@
     <key>sterling</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-325</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-45</integer>
     <key>public.kern2.R_A</key>
@@ -4163,7 +4163,7 @@
     <key>trademark</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-280</integer>
+    <integer>-28</integer>
     <key>yen</key>
     <integer>-60</integer>
     <key>public.kern2.R_A</key>
@@ -4410,7 +4410,7 @@
     <key>trademark</key>
     <integer>-25</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-25</integer>
     <key>public.kern2.R_A</key>
@@ -4662,7 +4662,7 @@
     <key>sterling</key>
     <integer>-55</integer>
     <key>underscore</key>
-    <integer>-10</integer>
+    <integer>-1</integer>
     <key>yen</key>
     <integer>-20</integer>
     <key>public.kern2.R_A</key>
@@ -4821,7 +4821,7 @@
     <key>trademark</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-65</integer>
+    <integer>-7</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -4940,7 +4940,7 @@
     <key>trademark</key>
     <integer>-125</integer>
     <key>underscore</key>
-    <integer>-85</integer>
+    <integer>-9</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -5089,7 +5089,7 @@
     <key>trademark</key>
     <integer>-85</integer>
     <key>underscore</key>
-    <integer>-145</integer>
+    <integer>-15</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -5218,7 +5218,7 @@
     <key>trademark</key>
     <integer>-125</integer>
     <key>underscore</key>
-    <integer>-85</integer>
+    <integer>-9</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -5343,7 +5343,7 @@
     <key>sterling</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-300</integer>
+    <integer>-30</integer>
     <key>yen</key>
     <integer>-45</integer>
     <key>public.kern2.R_A</key>
@@ -5444,7 +5444,7 @@
     <key>sterling</key>
     <integer>-60</integer>
     <key>underscore</key>
-    <integer>-140</integer>
+    <integer>-14</integer>
     <key>yen</key>
     <integer>-35</integer>
     <key>public.kern2.R_A</key>
@@ -5822,7 +5822,7 @@
     <key>sterling</key>
     <integer>-85</integer>
     <key>underscore</key>
-    <integer>-285</integer>
+    <integer>-29</integer>
     <key>yen</key>
     <integer>-15</integer>
     <key>public.kern2.R_A</key>
@@ -6001,7 +6001,7 @@
     <key>trademark</key>
     <integer>-305</integer>
     <key>underscore</key>
-    <integer>-10</integer>
+    <integer>-1</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_C</key>
@@ -6144,7 +6144,7 @@
     <key>sterling</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-305</integer>
+    <integer>-31</integer>
     <key>yen</key>
     <integer>-45</integer>
     <key>public.kern2.R_A</key>
@@ -6283,7 +6283,7 @@
     <key>sterling</key>
     <integer>-85</integer>
     <key>underscore</key>
-    <integer>-305</integer>
+    <integer>-31</integer>
     <key>yen</key>
     <integer>-25</integer>
     <key>public.kern2.R_A</key>
@@ -6408,7 +6408,7 @@
     <key>sterling</key>
     <integer>-45</integer>
     <key>underscore</key>
-    <integer>-155</integer>
+    <integer>-16</integer>
     <key>yen</key>
     <integer>-45</integer>
     <key>public.kern2.R_A</key>
@@ -6545,7 +6545,7 @@
     <key>sterling</key>
     <integer>-85</integer>
     <key>underscore</key>
-    <integer>-155</integer>
+    <integer>-16</integer>
     <key>yen</key>
     <integer>-25</integer>
     <key>public.kern2.R_A</key>
@@ -6696,7 +6696,7 @@
     <key>trademark</key>
     <integer>-155</integer>
     <key>underscore</key>
-    <integer>-10</integer>
+    <integer>-1</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_C</key>
@@ -6849,7 +6849,7 @@
     <key>sterling</key>
     <integer>-85</integer>
     <key>underscore</key>
-    <integer>-145</integer>
+    <integer>-15</integer>
     <key>yen</key>
     <integer>-15</integer>
     <key>public.kern2.R_A</key>
@@ -7002,7 +7002,7 @@
     <key>sterling</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-300</integer>
+    <integer>-30</integer>
     <key>yen</key>
     <integer>-45</integer>
     <key>public.kern2.R_A</key>
@@ -7127,7 +7127,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-10</integer>
+    <integer>-1</integer>
     <key>yen</key>
     <integer>-50</integer>
     <key>public.kern2.R_J</key>
@@ -7286,7 +7286,7 @@
     <key>trademark</key>
     <integer>-15</integer>
     <key>underscore</key>
-    <integer>-260</integer>
+    <integer>-26</integer>
     <key>yen</key>
     <integer>30</integer>
     <key>public.kern2.R_A</key>
@@ -7463,7 +7463,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_J</key>
@@ -7520,7 +7520,7 @@
     <key>sterling</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-20</integer>
     <key>public.kern2.R_A</key>
@@ -7547,231 +7547,231 @@
   <key>underscore</key>
   <dict>
     <key>Euro</key>
-    <integer>-310</integer>
+    <integer>-31</integer>
     <key>ampersand</key>
-    <integer>-140</integer>
+    <integer>-14</integer>
     <key>asciicircum</key>
-    <integer>-250</integer>
-    <key>asciitilde</key>
-    <integer>-245</integer>
-    <key>asterisk</key>
-    <integer>-215</integer>
-    <key>at</key>
-    <integer>-115</integer>
-    <key>backslash</key>
-    <integer>-270</integer>
-    <key>braceleft</key>
-    <integer>-80</integer>
-    <key>braceright</key>
     <integer>-25</integer>
+    <key>asciitilde</key>
+    <integer>-25</integer>
+    <key>asterisk</key>
+    <integer>-22</integer>
+    <key>at</key>
+    <integer>-12</integer>
+    <key>backslash</key>
+    <integer>-27</integer>
+    <key>braceleft</key>
+    <integer>-8</integer>
+    <key>braceright</key>
+    <integer>-3</integer>
     <key>bullet</key>
-    <integer>-190</integer>
+    <integer>-19</integer>
     <key>cent</key>
-    <integer>-205</integer>
+    <integer>-21</integer>
     <key>colon</key>
-    <integer>-75</integer>
+    <integer>-8</integer>
     <key>comma</key>
-    <integer>-45</integer>
+    <integer>-5</integer>
     <key>copyright</key>
-    <integer>-120</integer>
+    <integer>-12</integer>
     <key>degree</key>
-    <integer>-210</integer>
+    <integer>-21</integer>
     <key>divide</key>
-    <integer>-295</integer>
+    <integer>-30</integer>
     <key>dollar</key>
-    <integer>-165</integer>
+    <integer>-17</integer>
     <key>ellipsis</key>
-    <integer>-75</integer>
+    <integer>-8</integer>
     <key>emdash</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>endash</key>
-    <integer>-285</integer>
+    <integer>-29</integer>
     <key>equal</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>greater</key>
-    <integer>-300</integer>
+    <integer>-30</integer>
     <key>guillemotleft</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>guillemotright</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>guilsinglleft</key>
-    <integer>-185</integer>
+    <integer>-19</integer>
     <key>guilsinglright</key>
-    <integer>-185</integer>
+    <integer>-19</integer>
     <key>hyphen</key>
-    <integer>-180</integer>
+    <integer>-18</integer>
     <key>less</key>
-    <integer>-300</integer>
+    <integer>-30</integer>
     <key>minus</key>
-    <integer>-325</integer>
+    <integer>-33</integer>
     <key>multiply</key>
-    <integer>-280</integer>
+    <integer>-28</integer>
     <key>numbersign</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>paragraph</key>
-    <integer>-245</integer>
+    <integer>-25</integer>
     <key>parenleft</key>
-    <integer>-90</integer>
+    <integer>-9</integer>
     <key>percent</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>periodcentered</key>
-    <integer>-145</integer>
+    <integer>-15</integer>
     <key>perthousand</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>plus</key>
-    <integer>-300</integer>
+    <integer>-30</integer>
     <key>question</key>
-    <integer>-175</integer>
+    <integer>-18</integer>
     <key>questiondown</key>
-    <integer>-10</integer>
+    <integer>-1</integer>
     <key>quotedbl</key>
-    <integer>-285</integer>
+    <integer>-29</integer>
     <key>quotedblbase</key>
-    <integer>-45</integer>
+    <integer>-5</integer>
     <key>quotedblleft</key>
-    <integer>-305</integer>
+    <integer>-31</integer>
     <key>quotedblright</key>
-    <integer>-305</integer>
+    <integer>-31</integer>
     <key>quoteleft</key>
-    <integer>-155</integer>
+    <integer>-16</integer>
     <key>quoteright</key>
-    <integer>-155</integer>
+    <integer>-16</integer>
     <key>quotesinglbase</key>
-    <integer>-45</integer>
+    <integer>-5</integer>
     <key>quotesingle</key>
-    <integer>-145</integer>
+    <integer>-15</integer>
     <key>registered</key>
-    <integer>-300</integer>
+    <integer>-30</integer>
     <key>semicolon</key>
-    <integer>-40</integer>
+    <integer>-4</integer>
     <key>slash</key>
     <integer>55</integer>
     <key>sterling</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>trademark</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_A</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_C</key>
-    <integer>-310</integer>
+    <integer>-31</integer>
     <key>public.kern2.R_E</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_F</key>
-    <integer>-325</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_G</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>public.kern2.R_H</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_I</key>
-    <integer>-160</integer>
+    <integer>-16</integer>
     <key>public.kern2.R_J</key>
-    <integer>-90</integer>
+    <integer>-9</integer>
     <key>public.kern2.R_K</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_L</key>
-    <integer>-300</integer>
+    <integer>-30</integer>
     <key>public.kern2.R_Lslash</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>public.kern2.R_M</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_N</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_O</key>
-    <integer>-305</integer>
+    <integer>-31</integer>
     <key>public.kern2.R_Oslash</key>
-    <integer>-290</integer>
+    <integer>-29</integer>
     <key>public.kern2.R_P</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_Q</key>
-    <integer>-295</integer>
+    <integer>-30</integer>
     <key>public.kern2.R_R</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_S</key>
-    <integer>-230</integer>
+    <integer>-23</integer>
     <key>public.kern2.R_T</key>
-    <integer>-320</integer>
+    <integer>-32</integer>
     <key>public.kern2.R_Thorn</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_U</key>
-    <integer>-215</integer>
+    <integer>-22</integer>
     <key>public.kern2.R_V</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_W</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_X</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_Y</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_Z</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_a</key>
-    <integer>-190</integer>
+    <integer>-19</integer>
     <key>public.kern2.R_a.alt</key>
-    <integer>-170</integer>
+    <integer>-17</integer>
     <key>public.kern2.R_b</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_c</key>
-    <integer>-245</integer>
+    <integer>-25</integer>
     <key>public.kern2.R_d</key>
-    <integer>-190</integer>
+    <integer>-19</integer>
     <key>public.kern2.R_dcaron</key>
-    <integer>-190</integer>
+    <integer>-19</integer>
     <key>public.kern2.R_dcroat</key>
-    <integer>-190</integer>
+    <integer>-19</integer>
     <key>public.kern2.R_e</key>
-    <integer>-225</integer>
+    <integer>-23</integer>
     <key>public.kern2.R_eth</key>
-    <integer>-225</integer>
+    <integer>-23</integer>
     <key>public.kern2.R_f</key>
-    <integer>-200</integer>
+    <integer>-20</integer>
     <key>public.kern2.R_g</key>
-    <integer>-50</integer>
+    <integer>-5</integer>
     <key>public.kern2.R_germandbls</key>
-    <integer>-325</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_h</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>public.kern2.R_i</key>
-    <integer>-150</integer>
+    <integer>-15</integer>
     <key>public.kern2.R_j</key>
     <integer>45</integer>
     <key>public.kern2.R_l</key>
-    <integer>-160</integer>
+    <integer>-16</integer>
     <key>public.kern2.R_lcaron</key>
-    <integer>-250</integer>
+    <integer>-25</integer>
     <key>public.kern2.R_lslash</key>
-    <integer>-195</integer>
+    <integer>-20</integer>
     <key>public.kern2.R_m</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_n</key>
-    <integer>-310</integer>
+    <integer>-31</integer>
     <key>public.kern2.R_o</key>
-    <integer>-245</integer>
+    <integer>-25</integer>
     <key>public.kern2.R_oslash</key>
-    <integer>-220</integer>
+    <integer>-22</integer>
     <key>public.kern2.R_q</key>
-    <integer>-190</integer>
+    <integer>-19</integer>
     <key>public.kern2.R_r</key>
-    <integer>-215</integer>
+    <integer>-22</integer>
     <key>public.kern2.R_s</key>
-    <integer>-165</integer>
+    <integer>-17</integer>
     <key>public.kern2.R_t</key>
-    <integer>-140</integer>
+    <integer>-14</integer>
     <key>public.kern2.R_tcaron</key>
-    <integer>-140</integer>
+    <integer>-14</integer>
     <key>public.kern2.R_u</key>
-    <integer>-130</integer>
+    <integer>-13</integer>
     <key>public.kern2.R_v</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>public.kern2.R_w</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_x</key>
-    <integer>-295</integer>
+    <integer>-30</integer>
     <key>public.kern2.R_y</key>
-    <integer>-35</integer>
+    <integer>-4</integer>
     <key>public.kern2.R_z</key>
-    <integer>-280</integer>
+    <integer>-28</integer>
   </dict>
   <key>yen</key>
   <dict>
@@ -7880,7 +7880,7 @@
     <key>trademark</key>
     <integer>-15</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_A</key>
     <integer>-50</integer>
     <key>public.kern2.R_C</key>
@@ -8059,7 +8059,7 @@
     <key>trademark</key>
     <integer>-90</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_C</key>
@@ -8202,7 +8202,7 @@
     <key>trademark</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-195</integer>
+    <integer>-20</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -8333,7 +8333,7 @@
     <key>sterling</key>
     <integer>25</integer>
     <key>underscore</key>
-    <integer>-175</integer>
+    <integer>-18</integer>
     <key>yen</key>
     <integer>-20</integer>
     <key>public.kern2.R_A</key>
@@ -8506,7 +8506,7 @@
     <key>trademark</key>
     <integer>-25</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-60</integer>
     <key>public.kern2.R_A</key>
@@ -8571,7 +8571,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_J</key>
     <integer>25</integer>
     <key>public.kern2.R_j</key>
@@ -8618,7 +8618,7 @@
     <key>sterling</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-325</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_A</key>
     <integer>-45</integer>
     <key>public.kern2.R_J</key>
@@ -8671,7 +8671,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-200</integer>
+    <integer>-20</integer>
     <key>yen</key>
     <integer>-25</integer>
     <key>public.kern2.R_A</key>
@@ -8724,7 +8724,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_J</key>
     <integer>25</integer>
     <key>public.kern2.R_j</key>
@@ -8765,7 +8765,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-160</integer>
+    <integer>-16</integer>
     <key>public.kern2.R_J</key>
     <integer>25</integer>
     <key>public.kern2.R_S</key>
@@ -8806,7 +8806,7 @@
     <key>sterling</key>
     <integer>-25</integer>
     <key>underscore</key>
-    <integer>-115</integer>
+    <integer>-12</integer>
     <key>public.kern2.R_A</key>
     <integer>-35</integer>
     <key>public.kern2.R_S</key>
@@ -8919,7 +8919,7 @@
     <key>trademark</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_C</key>
     <integer>-70</integer>
     <key>public.kern2.R_G</key>
@@ -9044,7 +9044,7 @@
     <key>trademark</key>
     <integer>-260</integer>
     <key>underscore</key>
-    <integer>-300</integer>
+    <integer>-30</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_C</key>
@@ -9153,7 +9153,7 @@
     <key>trademark</key>
     <integer>-250</integer>
     <key>underscore</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_C</key>
@@ -9228,7 +9228,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_J</key>
     <integer>25</integer>
     <key>public.kern2.R_j</key>
@@ -9269,7 +9269,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_J</key>
     <integer>25</integer>
     <key>public.kern2.R_j</key>
@@ -9350,7 +9350,7 @@
     <key>trademark</key>
     <integer>-25</integer>
     <key>underscore</key>
-    <integer>-260</integer>
+    <integer>-26</integer>
     <key>yen</key>
     <integer>-60</integer>
     <key>public.kern2.R_A</key>
@@ -9461,7 +9461,7 @@
     <key>trademark</key>
     <integer>-25</integer>
     <key>underscore</key>
-    <integer>-250</integer>
+    <integer>-25</integer>
     <key>public.kern2.R_A</key>
     <integer>-55</integer>
     <key>public.kern2.R_J</key>
@@ -9552,7 +9552,7 @@
     <key>sterling</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-40</integer>
     <key>public.kern2.R_A</key>
@@ -9675,7 +9675,7 @@
     <key>trademark</key>
     <integer>-25</integer>
     <key>underscore</key>
-    <integer>-260</integer>
+    <integer>-26</integer>
     <key>yen</key>
     <integer>-60</integer>
     <key>public.kern2.R_A</key>
@@ -9774,7 +9774,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-45</integer>
     <key>public.kern2.R_J</key>
@@ -9889,7 +9889,7 @@
     <key>trademark</key>
     <integer>-70</integer>
     <key>underscore</key>
-    <integer>-180</integer>
+    <integer>-18</integer>
     <key>yen</key>
     <integer>-50</integer>
     <key>public.kern2.R_A</key>
@@ -10014,7 +10014,7 @@
     <key>sterling</key>
     <integer>-75</integer>
     <key>underscore</key>
-    <integer>-320</integer>
+    <integer>-32</integer>
     <key>public.kern2.R_A</key>
     <integer>-70</integer>
     <key>public.kern2.R_C</key>
@@ -10141,7 +10141,7 @@
     <key>trademark</key>
     <integer>-30</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-60</integer>
     <key>public.kern2.R_A</key>
@@ -10212,7 +10212,7 @@
     <key>sterling</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-180</integer>
+    <integer>-18</integer>
     <key>public.kern2.R_A</key>
     <integer>-50</integer>
     <key>public.kern2.R_J</key>
@@ -10335,7 +10335,7 @@
     <key>trademark</key>
     <integer>-20</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_A</key>
     <integer>-130</integer>
     <key>public.kern2.R_C</key>
@@ -10520,7 +10520,7 @@
     <key>trademark</key>
     <integer>-20</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_A</key>
     <integer>-105</integer>
     <key>public.kern2.R_C</key>
@@ -10705,7 +10705,7 @@
     <key>trademark</key>
     <integer>-25</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_A</key>
     <integer>-15</integer>
     <key>public.kern2.R_C</key>
@@ -10888,7 +10888,7 @@
     <key>trademark</key>
     <integer>-25</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_A</key>
     <integer>-95</integer>
     <key>public.kern2.R_C</key>
@@ -10999,7 +10999,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_J</key>
     <integer>25</integer>
     <key>public.kern2.R_j</key>
@@ -11072,7 +11072,7 @@
     <key>trademark</key>
     <integer>-55</integer>
     <key>underscore</key>
-    <integer>-285</integer>
+    <integer>-29</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_J</key>
@@ -11175,7 +11175,7 @@
     <key>trademark</key>
     <integer>-70</integer>
     <key>underscore</key>
-    <integer>-160</integer>
+    <integer>-16</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -11276,7 +11276,7 @@
     <key>trademark</key>
     <integer>-15</integer>
     <key>underscore</key>
-    <integer>-135</integer>
+    <integer>-14</integer>
     <key>yen</key>
     <integer>-45</integer>
     <key>public.kern2.R_A</key>
@@ -11337,7 +11337,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-325</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_J</key>
     <integer>25</integer>
     <key>public.kern2.R_j</key>
@@ -11446,7 +11446,7 @@
     <key>trademark</key>
     <integer>15</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_A</key>
     <integer>-75</integer>
     <key>public.kern2.R_B</key>
@@ -11573,7 +11573,7 @@
     <key>slash</key>
     <integer>30</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>public.kern2.R_J</key>
     <integer>30</integer>
     <key>public.kern2.R_j</key>
@@ -11656,7 +11656,7 @@
     <key>trademark</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-125</integer>
+    <integer>-13</integer>
     <key>yen</key>
     <integer>-60</integer>
     <key>public.kern2.R_A</key>
@@ -11765,7 +11765,7 @@
     <key>trademark</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-200</integer>
+    <integer>-20</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -11846,7 +11846,7 @@
     <key>sterling</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-200</integer>
+    <integer>-20</integer>
     <key>public.kern2.R_A</key>
     <integer>-60</integer>
     <key>public.kern2.R_J</key>
@@ -11994,7 +11994,7 @@
     <key>trademark</key>
     <integer>-15</integer>
     <key>underscore</key>
-    <integer>-140</integer>
+    <integer>-14</integer>
     <key>yen</key>
     <integer>-45</integer>
     <key>public.kern2.R_A</key>
@@ -12125,7 +12125,7 @@
     <key>trademark</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_J</key>
@@ -12196,7 +12196,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-150</integer>
+    <integer>-15</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_J</key>
@@ -12302,7 +12302,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-160</integer>
+    <integer>-16</integer>
     <key>public.kern2.R_J</key>
     <integer>25</integer>
     <key>public.kern2.R_j</key>
@@ -12417,7 +12417,7 @@
     <key>trademark</key>
     <integer>40</integer>
     <key>underscore</key>
-    <integer>-250</integer>
+    <integer>-25</integer>
     <key>yen</key>
     <integer>20</integer>
     <key>public.kern2.R_A</key>
@@ -12570,7 +12570,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-195</integer>
+    <integer>-20</integer>
     <key>public.kern2.R_J</key>
     <integer>25</integer>
     <key>public.kern2.R_j</key>
@@ -12641,7 +12641,7 @@
     <key>trademark</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_J</key>
@@ -12728,7 +12728,7 @@
     <key>trademark</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-310</integer>
+    <integer>-31</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_J</key>
@@ -12835,7 +12835,7 @@
     <key>trademark</key>
     <integer>-90</integer>
     <key>underscore</key>
-    <integer>-210</integer>
+    <integer>-21</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -12950,7 +12950,7 @@
     <key>sterling</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-185</integer>
+    <integer>-19</integer>
     <key>yen</key>
     <integer>-35</integer>
     <key>public.kern2.R_A</key>
@@ -13061,7 +13061,7 @@
     <key>trademark</key>
     <integer>-70</integer>
     <key>underscore</key>
-    <integer>-160</integer>
+    <integer>-16</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -13209,7 +13209,7 @@
     <key>sterling</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-215</integer>
+    <integer>-22</integer>
     <key>yen</key>
     <integer>-20</integer>
     <key>public.kern2.R_A</key>
@@ -13316,7 +13316,7 @@
     <key>trademark</key>
     <integer>-35</integer>
     <key>underscore</key>
-    <integer>-130</integer>
+    <integer>-13</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -13562,7 +13562,7 @@
     <key>trademark</key>
     <integer>45</integer>
     <key>underscore</key>
-    <integer>-195</integer>
+    <integer>-20</integer>
     <key>yen</key>
     <integer>25</integer>
     <key>public.kern2.R_A</key>
@@ -13769,7 +13769,7 @@
     <key>trademark</key>
     <integer>-70</integer>
     <key>underscore</key>
-    <integer>-160</integer>
+    <integer>-16</integer>
     <key>yen</key>
     <integer>-65</integer>
     <key>public.kern2.R_A</key>
@@ -13860,7 +13860,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-250</integer>
+    <integer>-25</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_J</key>
@@ -13949,7 +13949,7 @@
     <key>sterling</key>
     <integer>-40</integer>
     <key>underscore</key>
-    <integer>-315</integer>
+    <integer>-32</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_A</key>
@@ -14082,7 +14082,7 @@
     <key>sterling</key>
     <integer>-55</integer>
     <key>underscore</key>
-    <integer>-330</integer>
+    <integer>-33</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_A</key>
@@ -14233,7 +14233,7 @@
     <key>trademark</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-295</integer>
+    <integer>-30</integer>
     <key>yen</key>
     <integer>-40</integer>
     <key>public.kern2.R_C</key>
@@ -14390,7 +14390,7 @@
     <key>sterling</key>
     <integer>-60</integer>
     <key>underscore</key>
-    <integer>-95</integer>
+    <integer>-10</integer>
     <key>yen</key>
     <integer>-35</integer>
     <key>public.kern2.R_A</key>
@@ -14491,7 +14491,7 @@
     <key>sterling</key>
     <integer>-10</integer>
     <key>underscore</key>
-    <integer>-280</integer>
+    <integer>-28</integer>
     <key>yen</key>
     <integer>-30</integer>
     <key>public.kern2.R_J</key>
