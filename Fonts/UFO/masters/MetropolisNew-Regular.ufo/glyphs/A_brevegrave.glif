@@ -3,13 +3,16 @@
   <advance width="785"/>
   <unicode hex="1EB0"/>
   <anchor x="738" y="0" name="bottom"/>
-  <anchor x="393" y="687" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="brevegrave.case" xOffset="16"/>
+    <component base="brevegrave.case"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>A</string>
   <key>com.fontlab.recipe</key>
   <string>A+brevegrave.case</string>
   </dict>

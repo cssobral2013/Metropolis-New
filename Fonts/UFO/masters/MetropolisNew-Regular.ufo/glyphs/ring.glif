@@ -2,7 +2,7 @@
 <glyph name="ring" format="2">
   <advance width="282"/>
   <unicode hex="02DA"/>
-  <anchor x="141" y="517" name="_top"/>
+  <anchor x="141" y="600" name="_top"/>
   <anchor x="141" y="704" name="top"/>
   <outline>
     <contour>

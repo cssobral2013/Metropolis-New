@@ -5,9 +5,8 @@
   <anchor x="409" y="687" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="commaaccentcomb" xOffset="223"/>
+    <component base="commaaccentcomb" xOffset="235" yOffset="-4"/>
   </outline>
-  <guideline angle="78.5" x="255" y="-23"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>

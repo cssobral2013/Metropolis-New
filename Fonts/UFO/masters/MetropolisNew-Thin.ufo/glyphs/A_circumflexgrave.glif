@@ -3,15 +3,18 @@
   <advance width="794"/>
   <unicode hex="1EA6"/>
   <anchor x="720" y="0" name="bottom"/>
-  <anchor x="397" y="687" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexacute.case" xOffset="46"/>
+    <component base="circumflexgrave.case" xOffset="16"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>A</string>
   <key>com.fontlab.recipe</key>
-  <string>A+circumflexacute.case</string>
+  <string>A+circumflexgrave.case</string>
   </dict>
   </lib>
 </glyph>

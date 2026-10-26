@@ -3,6 +3,6 @@
   <advance width="595"/>
   <outline>
     <component base="a.alt"/>
-    <component base="ring" xOffset="160"/>
+    <component base="ring" xOffset="160" yOffset="-83"/>
   </outline>
 </glyph>

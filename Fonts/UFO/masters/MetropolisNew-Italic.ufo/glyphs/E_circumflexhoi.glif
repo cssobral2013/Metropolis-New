@@ -1,34 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflexhoi" format="2">
-  <advance width="627"/>
+  <advance width="625"/>
   <unicode hex="1EC2"/>
+  <anchor x="167" y="687" name="ae_upper"/>
+  <anchor x="517" y="0" name="bottom"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexhoi.case" xOffset="-52"/>
+    <component base="circumflexhoi.case" xOffset="-68"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w627</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 74</string>
-          <string>hstem 313 74</string>
-          <string>hstem 613 74</string>
-          <string>hstem 746 137</string>
-          <string>hstem 983 44</string>
-          <string>vstem 661 57</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+circumflexhoi.case</string>
   </dict>
   </lib>
 </glyph>

@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abrevegrave" format="2">
-  <advance width="755"/>
+  <advance width="785"/>
   <unicode hex="1EB0"/>
+  <anchor x="684" y="0" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="brevegrave.case" xOffset="16"/>
+    <component base="brevegrave.case" xOffset="-13"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w755</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 156 74</string>
-          <string>hstem 591 96</string>
-          <string>hstem 687 -20</string>
-          <string>hstem 759 65</string>
-          <string>vstem -22 691</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+brevegrave.case</string>
   </dict>
   </lib>
 </glyph>

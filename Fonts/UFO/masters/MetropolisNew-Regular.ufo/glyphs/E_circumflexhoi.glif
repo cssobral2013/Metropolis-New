@@ -4,10 +4,9 @@
   <unicode hex="1EC2"/>
   <anchor x="78" y="687" name="ae_upper"/>
   <anchor x="571" y="0" name="bottom"/>
-  <anchor x="325" y="687" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexhoi.case" xOffset="-52"/>
+    <component base="circumflexhoi.case" xOffset="-20"/>
   </outline>
   <lib>
   <dict>

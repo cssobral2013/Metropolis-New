@@ -3,13 +3,16 @@
   <advance width="794"/>
   <unicode hex="1EAA"/>
   <anchor x="720" y="0" name="bottom"/>
-  <anchor x="397" y="687" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="circumflextilde.case" xOffset="43"/>
+    <component base="circumflextilde.case" xOffset="-1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>A</string>
   <key>com.fontlab.recipe</key>
   <string>A+circumflextilde.case</string>
   </dict>

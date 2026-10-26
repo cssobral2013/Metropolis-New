@@ -4,13 +4,13 @@
   <unicode hex="21EA"/>
   <outline>
     <contour>
-      <point x="833" y="106" type="line"/>
+      <point x="833" y="109" type="line"/>
       <point x="833" y="272" type="line"/>
       <point x="1083" y="272" type="line"/>
       <point x="571" y="784" type="line"/>
       <point x="61" y="272" type="line"/>
       <point x="311" y="272" type="line"/>
-      <point x="311" y="106" type="line"/>
+      <point x="311" y="109" type="line"/>
     </contour>
     <contour>
       <point x="458" y="379" type="line"/>
@@ -18,20 +18,20 @@
       <point x="571" y="604" type="line"/>
       <point x="797" y="379" type="line"/>
       <point x="686" y="379" type="line"/>
-      <point x="686" y="213" type="line"/>
-      <point x="458" y="213" type="line"/>
+      <point x="686" y="216" type="line"/>
+      <point x="458" y="216" type="line"/>
     </contour>
     <contour>
-      <point x="833" y="-216" type="line"/>
-      <point x="833" y="45" type="line"/>
-      <point x="311" y="45" type="line"/>
-      <point x="311" y="-216" type="line"/>
+      <point x="833" y="-213" type="line"/>
+      <point x="833" y="48" type="line"/>
+      <point x="311" y="48" type="line"/>
+      <point x="311" y="-213" type="line"/>
     </contour>
     <contour>
-      <point x="458" y="-55" type="line"/>
-      <point x="686" y="-55" type="line"/>
-      <point x="686" y="-116" type="line"/>
-      <point x="458" y="-116" type="line"/>
+      <point x="458" y="-52" type="line"/>
+      <point x="686" y="-52" type="line"/>
+      <point x="686" y="-113" type="line"/>
+      <point x="458" y="-113" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6ce51cfb6474318ef1084c60e8154e34388a78a6f866b765a2037e7d5a11cef744645e6917ce4bbb50ca0d5718e0305d0002e03bd4c23135607906c315cc6f09</string>
+    <string>5892515d65deb5403ca6d634913416f821e6b722be1d2ded7aadf9345896e8ee7a3b77f7afd73af2004d47f25fad2134551b8222c141be69a5afaeaf9f2f44c9</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexgrave.case" format="2">
   <advance width="710"/>
+  <anchor x="473" y="687" name="_top"/>
   <outline>
     <contour>
-      <point x="490" y="935" type="line"/>
-      <point x="588" y="842" type="line"/>
-      <point x="636" y="842" type="line"/>
-      <point x="532" y="942" type="line"/>
+      <point x="526" y="975" type="line"/>
+      <point x="602" y="862" type="line"/>
+      <point x="643" y="862" type="line"/>
+      <point x="562" y="983" type="line"/>
     </contour>
     <contour>
-      <point x="580" y="746" type="line"/>
-      <point x="492" y="842" type="line"/>
-      <point x="448" y="842" type="line"/>
-      <point x="322" y="746" type="line"/>
-      <point x="367" y="746" type="line"/>
-      <point x="467" y="820" type="line"/>
-      <point x="537" y="746" type="line"/>
+      <point x="589" y="746" type="line"/>
+      <point x="521" y="862" type="line"/>
+      <point x="483" y="862" type="line"/>
+      <point x="369" y="746" type="line"/>
+      <point x="408" y="746" type="line"/>
+      <point x="498" y="836" type="line"/>
+      <point x="552" y="746" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,18 +26,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w710m490,935l588,842l636,842l532,942m580,746l492,842l448,842l322,746l367,746l467,820l537,746</string>
+    <string>w710m526,975l602,862l643,862l562,983m589,746l521,862l483,862l369,746l408,746l498,836l552,746</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 401.46 -21</string>
-          <string>hstem 466.21 17.64</string>
-          <string>hstem 695.04 22.05</string>
-          <string>hstem 717.09 -20</string>
-          <string>hstem 797.94 15.19</string>
-          <string>vstem 92 646</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 175 36</string>
+          <string>hstem 642 45</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 852 31</string>
+          <string>vstem -22 672</string>
         </array>
       </dict>
     </array>

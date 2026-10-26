@@ -2,10 +2,9 @@
 <glyph name="Ocircumflextilde" format="2">
   <advance width="796"/>
   <unicode hex="1ED6"/>
-  <anchor x="398" y="687" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="circumflextilde.case" xOffset="24"/>
+    <component base="circumflextilde.case" xOffset="14"/>
   </outline>
   <lib>
   <dict>

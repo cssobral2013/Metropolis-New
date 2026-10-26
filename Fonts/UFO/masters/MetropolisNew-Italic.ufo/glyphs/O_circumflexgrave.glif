@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflexgrave" format="2">
-  <advance width="808"/>
+  <advance width="815"/>
   <unicode hex="1ED2"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexgrave.case" xOffset="33"/>
+    <component base="circumflexgrave.case" xOffset="6"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w808</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 72</string>
-          <string>hstem 627 72</string>
-          <string>hstem 746 137</string>
-          <string>vstem 64 79</string>
-          <string>vstem 702 78</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+circumflexgrave.case</string>
   </dict>
   </lib>
 </glyph>

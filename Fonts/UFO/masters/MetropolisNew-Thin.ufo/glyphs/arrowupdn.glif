@@ -4,14 +4,14 @@
   <unicode hex="2195"/>
   <outline>
     <contour>
-      <point x="704" y="65" type="line"/>
-      <point x="688" y="81" type="line"/>
-      <point x="590" y="-17"/>
-      <point x="491" y="-114"/>
-      <point x="396" y="-215" type="curve"/>
-      <point x="397" y="-188"/>
-      <point x="397" y="-160"/>
-      <point x="397" y="-133" type="curve"/>
+      <point x="704" y="105" type="line"/>
+      <point x="688" y="121" type="line"/>
+      <point x="590" y="23"/>
+      <point x="491" y="-74"/>
+      <point x="396" y="-175" type="curve"/>
+      <point x="397" y="-148"/>
+      <point x="397" y="-120"/>
+      <point x="397" y="-93" type="curve"/>
       <point x="396" y="742" type="line"/>
       <point x="396" y="779"/>
       <point x="396" y="815"/>
@@ -29,15 +29,15 @@
       <point x="375" y="815"/>
       <point x="375" y="779"/>
       <point x="375" y="742" type="curve"/>
-      <point x="375" y="-133" type="line"/>
-      <point x="375" y="-160"/>
-      <point x="375" y="-188"/>
-      <point x="375" y="-215" type="curve"/>
-      <point x="280" y="-114"/>
-      <point x="181" y="-17"/>
-      <point x="83" y="81" type="curve"/>
-      <point x="67" y="65" type="line"/>
-      <point x="386" y="-253" type="line"/>
+      <point x="375" y="-93" type="line"/>
+      <point x="375" y="-120"/>
+      <point x="375" y="-148"/>
+      <point x="375" y="-175" type="curve"/>
+      <point x="280" y="-74"/>
+      <point x="181" y="23"/>
+      <point x="83" y="121" type="curve"/>
+      <point x="67" y="105" type="line"/>
+      <point x="386" y="-213" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7afcac5125107fcac10746e525794dcc77b2ea47bb49710f32421077953a52f2252d8bec7808076a216f5edd237d4c7f595e51327eafc114fdca7d44e883c051</string>
+    <string>72df73932adc14f2b9a1b83b738e250ef650a664275f45e983805a4331ca5253270d6e806ede7003305539c40462f7eff121f9f52af8429455d764c4bb6d7777</string>
     <key>hintSetList</key>
     <array>
       <dict>

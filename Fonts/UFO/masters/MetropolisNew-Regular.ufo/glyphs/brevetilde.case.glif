@@ -1,44 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevetilde.case" format="2">
-  <advance width="755"/>
+  <advance width="785"/>
+  <anchor x="391" y="687" name="_top"/>
   <outline>
     <contour>
-      <point x="312" y="913" type="curve" smooth="yes"/>
-      <point x="342" y="913"/>
-      <point x="392" y="866"/>
-      <point x="441" y="866" type="curve" smooth="yes"/>
-      <point x="508" y="866"/>
-      <point x="530" y="910"/>
-      <point x="537" y="950" type="curve"/>
-      <point x="491" y="955" type="line"/>
-      <point x="487" y="935"/>
-      <point x="476" y="907"/>
-      <point x="441" y="907" type="curve" smooth="yes"/>
-      <point x="411" y="907"/>
-      <point x="361" y="953"/>
-      <point x="312" y="953" type="curve" smooth="yes"/>
-      <point x="245" y="953"/>
-      <point x="223" y="910"/>
-      <point x="216" y="870" type="curve"/>
-      <point x="262" y="865" type="line"/>
-      <point x="266" y="885"/>
-      <point x="277" y="913"/>
+      <point x="336" y="943" type="curve" smooth="yes"/>
+      <point x="362" y="943"/>
+      <point x="404" y="887"/>
+      <point x="446" y="887" type="curve" smooth="yes"/>
+      <point x="503" y="887"/>
+      <point x="522" y="940"/>
+      <point x="527" y="988" type="curve"/>
+      <point x="488" y="994" type="line"/>
+      <point x="485" y="970"/>
+      <point x="476" y="936"/>
+      <point x="446" y="936" type="curve" smooth="yes"/>
+      <point x="420" y="936"/>
+      <point x="378" y="992"/>
+      <point x="336" y="992" type="curve" smooth="yes"/>
+      <point x="279" y="992"/>
+      <point x="261" y="940"/>
+      <point x="255" y="891" type="curve"/>
+      <point x="294" y="885" type="line"/>
+      <point x="297" y="909"/>
+      <point x="306" y="943"/>
     </contour>
     <contour>
-      <point x="476" y="834" type="line"/>
-      <point x="449" y="816"/>
-      <point x="415" y="805"/>
-      <point x="377" y="805" type="curve" smooth="yes"/>
-      <point x="339" y="805"/>
-      <point x="305" y="816"/>
-      <point x="278" y="834" type="curve"/>
-      <point x="231" y="801" type="line"/>
-      <point x="271" y="774"/>
-      <point x="321" y="759"/>
-      <point x="377" y="759" type="curve" smooth="yes"/>
-      <point x="433" y="759"/>
-      <point x="483" y="773"/>
-      <point x="523" y="801" type="curve"/>
+      <point x="476" y="848" type="line"/>
+      <point x="453" y="826"/>
+      <point x="424" y="812"/>
+      <point x="391" y="812" type="curve" smooth="yes"/>
+      <point x="359" y="812"/>
+      <point x="330" y="826"/>
+      <point x="307" y="848" type="curve"/>
+      <point x="267" y="808" type="line"/>
+      <point x="301" y="775"/>
+      <point x="344" y="757"/>
+      <point x="391" y="757" type="curve" smooth="yes"/>
+      <point x="439" y="757"/>
+      <point x="482" y="774"/>
+      <point x="516" y="808" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -48,19 +49,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2c253cf7d485f72d2f4911a58b831084b77ff319a829f1f755401277808ea138c2c28d6f4fda09bb7faa842e4446272614691262fb9218965996bfead7c070da</string>
+    <string>178de9e4056f5c93df6d674fac34822d22ee40bf89951955927812a1b393645b55187c6fb6e0035e659d7b90bc4d5c2a50202e243951ad245a078673d2d3236a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 248.7 -21</string>
-          <string>hstem 336.9 51.8</string>
-          <string>hstem 641.4 67.2</string>
-          <string>hstem 708.6 -20</string>
-          <string>hstem 759 45.5</string>
-          <string>hstem 866.1 40.6</string>
-          <string>hstem 912.3 40.6</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 156 74</string>
+          <string>hstem 591 96</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 759 65</string>
+          <string>hstem 912 58</string>
+          <string>hstem 978 58</string>
           <string>vstem 32 691</string>
           <string>vstem 216 46</string>
           <string>vstem 491 46</string>

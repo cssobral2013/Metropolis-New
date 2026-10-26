@@ -2,8 +2,15 @@
 <glyph name="Gcommaaccent" format="2">
   <advance width="728"/>
   <unicode hex="0122"/>
+  <anchor x="484" y="687" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="commaaccentcomb" xOffset="317"/>
+    <component base="commaaccentcomb" xOffset="329" yOffset="-4"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>G+commaaccentcomb</string>
+  </dict>
+  </lib>
 </glyph>

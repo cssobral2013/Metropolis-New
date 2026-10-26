@@ -2,10 +2,9 @@
 <glyph name="Ocircumflexgrave" format="2">
   <advance width="811"/>
   <unicode hex="1ED2"/>
-  <anchor x="406" y="687" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexgrave.case" xOffset="33"/>
+    <component base="circumflexgrave.case" xOffset="36"/>
   </outline>
   <lib>
   <dict>

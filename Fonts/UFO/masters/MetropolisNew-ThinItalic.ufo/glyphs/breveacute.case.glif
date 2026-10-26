@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breveacute.case" format="2">
   <advance width="710"/>
+  <anchor x="469" y="687" name="_top"/>
   <outline>
     <contour>
-      <point x="420" y="843" type="line"/>
-      <point x="468" y="843" type="line"/>
-      <point x="606" y="936" type="line"/>
-      <point x="566" y="943" type="line"/>
+      <point x="624" y="972" type="line"/>
+      <point x="591" y="979" type="line"/>
+      <point x="460" y="859" type="line"/>
+      <point x="500" y="859" type="line"/>
     </contour>
     <contour>
-      <point x="316" y="802" type="line"/>
-      <point x="353" y="773"/>
-      <point x="402" y="759"/>
-      <point x="456" y="759" type="curve" smooth="yes"/>
-      <point x="515" y="759"/>
-      <point x="565" y="775"/>
-      <point x="608" y="801" type="curve"/>
-      <point x="584" y="820" type="line"/>
-      <point x="548" y="799"/>
-      <point x="504" y="785"/>
-      <point x="455" y="785" type="curve" smooth="yes"/>
-      <point x="412" y="785"/>
-      <point x="373" y="795"/>
-      <point x="344" y="819" type="curve"/>
+      <point x="483" y="757" type="curve" smooth="yes"/>
+      <point x="534" y="757"/>
+      <point x="578" y="775"/>
+      <point x="616" y="807" type="curve"/>
+      <point x="597" y="831" type="line"/>
+      <point x="565" y="804"/>
+      <point x="527" y="788"/>
+      <point x="485" y="788" type="curve" smooth="yes"/>
+      <point x="449" y="788"/>
+      <point x="416" y="800"/>
+      <point x="393" y="829" type="curve"/>
+      <point x="368" y="809" type="line"/>
+      <point x="398" y="773"/>
+      <point x="437" y="757"/>
     </contour>
   </outline>
   <lib>
@@ -32,18 +33,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>517a05bd1777476f9c89740116693363acc57828bc674d28302b9814963d289a5358eddd2374d77009ed3e3bede2ebcb7caf46e1351b8660722210a60b8e59bf</string>
+    <string>67acc3d2ed8ca4dc19166dd5d8f00c73ea7337a6cacab1065d33cb5c112f5e3d6d8bf92b6b4bee20b82132975832e967b6b37d125be00d09d60f143f1576fa31</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 408.09 -21</string>
-          <string>hstem 472.84 17.64</string>
-          <string>hstem 701.67 22.05</string>
-          <string>hstem 723.72 -20</string>
-          <string>hstem 759 18.13</string>
-          <string>vstem 92 646</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 175 36</string>
+          <string>hstem 642 45</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 759 37</string>
+          <string>vstem -22 650</string>
         </array>
       </dict>
     </array>
