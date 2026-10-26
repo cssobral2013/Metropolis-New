@@ -7,6 +7,7 @@
   <outline>
     <contour>
       <point x="274" y="687" type="line"/>
+      <point x="359" y="517" type="line"/>
       <point x="538" y="0" type="line"/>
       <point x="757" y="0" type="line"/>
       <point x="493" y="687" type="line"/>
@@ -20,6 +21,7 @@
     <contour>
       <point x="10" y="0" type="line"/>
       <point x="229" y="0" type="line"/>
+      <point x="408" y="517" type="line"/>
       <point x="493" y="687" type="line"/>
       <point x="274" y="687" type="line"/>
     </contour>
