@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+  <advance width="1020"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="three.superior" xOffset="8"/>
+    <component base="fraction" xOffset="400"/>
+    <component base="four.inferior" xOffset="585"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>three.superior_fraction_four.inferior</string>
+  </dict>
+  </lib>
+</glyph>

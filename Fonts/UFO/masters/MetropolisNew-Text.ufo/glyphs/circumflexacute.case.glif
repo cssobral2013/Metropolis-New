@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexacute.case" format="2">
+  <advance width="807"/>
+  <anchor x="343" y="687" name="_top"/>
+  <outline>
+    <contour>
+      <point x="578" y="969" type="line"/>
+      <point x="511" y="985" type="line"/>
+      <point x="408" y="862" type="line"/>
+      <point x="457" y="862" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="746" type="line"/>
+      <point x="373" y="862" type="line"/>
+      <point x="314" y="862" type="line"/>
+      <point x="229" y="746" type="line"/>
+      <point x="277" y="746" type="line"/>
+      <point x="343" y="819" type="line"/>
+      <point x="411" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w807m578,969l511,985l408,862l457,862m460,746l373,862l314,862l229,746l277,746l343,819l411,746</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 156 74</string>
+          <string>hstem 591 96</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 746 137</string>
+          <string>vstem -16 691</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

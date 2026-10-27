@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflextilde.case" format="2">
+  <advance width="730"/>
+  <anchor x="480" y="687" name="_top"/>
+  <outline>
+    <contour>
+      <point x="474" y="943" type="curve" smooth="yes"/>
+      <point x="501" y="943"/>
+      <point x="529" y="887"/>
+      <point x="572" y="887" type="curve" smooth="yes"/>
+      <point x="624" y="887"/>
+      <point x="652" y="934"/>
+      <point x="668" y="979" type="curve"/>
+      <point x="639" y="985" type="line"/>
+      <point x="629" y="960"/>
+      <point x="611" y="917"/>
+      <point x="578" y="917" type="curve" smooth="yes"/>
+      <point x="553" y="917"/>
+      <point x="521" y="974"/>
+      <point x="480" y="974" type="curve" smooth="yes"/>
+      <point x="429" y="974"/>
+      <point x="398" y="925"/>
+      <point x="384" y="882" type="curve"/>
+      <point x="413" y="876" type="line"/>
+      <point x="422" y="902"/>
+      <point x="441" y="943"/>
+    </contour>
+    <contour>
+      <point x="599" y="746" type="line"/>
+      <point x="531" y="862" type="line"/>
+      <point x="493" y="862" type="line"/>
+      <point x="379" y="746" type="line"/>
+      <point x="418" y="746" type="line"/>
+      <point x="508" y="836" type="line"/>
+      <point x="562" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a70dfff4267e8c2b92093c05c4522f594177f8877376220250f8719b2a6fd6c72884a7d0772f4cf578bbc476c35ce01668695ff1af0b2c1e894302f07dc97858</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 175 36</string>
+          <string>hstem 642 45</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 852 31</string>
+          <string>hstem 912 36</string>
+          <string>hstem 978 36</string>
+          <string>vstem -12 690</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

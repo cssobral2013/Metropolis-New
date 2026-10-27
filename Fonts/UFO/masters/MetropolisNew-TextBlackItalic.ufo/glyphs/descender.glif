@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descender" format="2">
+  <advance width="318"/>
+  <anchor x="66" y="275" name="loop_left"/>
+  <anchor x="253" y="247" name="loop_right"/>
+  <outline>
+    <contour>
+      <point x="166" y="-172" type="line"/>
+      <point x="309" y="517" type="line"/>
+      <point x="116" y="517" type="line"/>
+      <point x="-27" y="-172" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

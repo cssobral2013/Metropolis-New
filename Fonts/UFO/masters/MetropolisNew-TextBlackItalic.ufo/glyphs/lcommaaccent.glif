@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent" format="2">
+  <advance width="329"/>
+  <unicode hex="013C"/>
+  <anchor x="164" y="699" name="top"/>
+  <outline>
+    <component base="l" xOffset="-1"/>
+    <component base="commaaccentcomb" xOffset="57"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>l+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

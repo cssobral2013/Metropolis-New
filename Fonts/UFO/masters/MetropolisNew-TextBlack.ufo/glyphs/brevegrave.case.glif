@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevegrave.case" format="2">
+  <advance width="789"/>
+  <anchor x="408" y="687" name="_top"/>
+  <outline>
+    <contour>
+      <point x="237" y="1010" type="line"/>
+      <point x="366" y="894" type="line"/>
+      <point x="473" y="894" type="line"/>
+      <point x="378" y="1034" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="868" type="line"/>
+      <point x="468" y="846"/>
+      <point x="440" y="832"/>
+      <point x="408" y="832" type="curve" smooth="yes"/>
+      <point x="375" y="832"/>
+      <point x="347" y="846"/>
+      <point x="325" y="868" type="curve"/>
+      <point x="262" y="805" type="line"/>
+      <point x="302" y="766"/>
+      <point x="352" y="745"/>
+      <point x="408" y="745" type="curve" smooth="yes"/>
+      <point x="464" y="745"/>
+      <point x="513" y="765"/>
+      <point x="553" y="805" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f69dcb9ab420ccf18c833e6c3f42315537c8e5db84397651004256edbbd0b0fc1f5a88f919038bcd1580caea15a7168436cd662dea666e507575b74775e9e6e6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 92 143</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 745 102</string>
+          <string>vstem 19 747</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

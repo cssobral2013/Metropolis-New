@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="1047"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="231" y="175" type="line"/>
+      <point x="505" y="175" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="956" y="0" type="line"/>
+      <point x="956" y="36" type="line"/>
+      <point x="541" y="36" type="line"/>
+      <point x="541" y="332" type="line"/>
+      <point x="925" y="332" type="line"/>
+      <point x="925" y="368" type="line"/>
+      <point x="541" y="368" type="line"/>
+      <point x="541" y="651" type="line"/>
+      <point x="956" y="651" type="line"/>
+      <point x="956" y="687" type="line"/>
+      <point x="485" y="687" type="line"/>
+      <point x="88" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="505" y="651" type="line"/>
+      <point x="505" y="211" type="line"/>
+      <point x="252" y="211" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

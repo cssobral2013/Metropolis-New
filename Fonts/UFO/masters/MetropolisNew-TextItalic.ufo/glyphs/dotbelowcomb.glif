@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="2">
+  <advance width="645"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="264.483" y="-73" type="curve" smooth="yes"/>
+      <point x="236.483" y="-73"/>
+      <point x="210.02" y="-94"/>
+      <point x="204.068" y="-122" type="curve" smooth="yes"/>
+      <point x="198.329" y="-149"/>
+      <point x="215.44" y="-172"/>
+      <point x="243.44" y="-172" type="curve" smooth="yes"/>
+      <point x="270.44" y="-172"/>
+      <point x="297.329" y="-149"/>
+      <point x="303.068" y="-122" type="curve" smooth="yes"/>
+      <point x="308.807" y="-95"/>
+      <point x="291.483" y="-73"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>69da205a4e2f7197bcf3b9643a3860757c70e3c6bc3101018a4e84ba5eeeff3ddf8ad2418a5ba730c7c59d7730775809ae8f150588625ecc0529b7709b1b37dd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -172 99</string>
+          <string>vstem 285 99</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

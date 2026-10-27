@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevehoi.alt" format="2">
+  <advance width="693"/>
+  <anchor x="628" y="0" name="bottom"/>
+  <anchor x="340" y="517" name="top"/>
+  <outline>
+    <component base="a.alt"/>
+    <component base="brevehoi" xOffset="33"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a.alt+brevehoi</string>
+  </dict>
+  </lib>
+</glyph>

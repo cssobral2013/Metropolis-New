@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohornacute" format="2">
+  <advance width="697"/>
+  <unicode hex="1EDB"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="acute" xOffset="193"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w697</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 160</string>
+          <string>hstem 369 160</string>
+          <string>hstem 517 -20</string>
+          <string>vstem 35 177</string>
+          <string>vstem 445 177</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

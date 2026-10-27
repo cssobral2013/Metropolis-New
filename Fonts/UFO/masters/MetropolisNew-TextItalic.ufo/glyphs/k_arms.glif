@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_arms" format="2">
+  <advance width="431"/>
+  <anchor x="1" y="127" name="k_arms"/>
+  <outline>
+    <contour>
+      <point x="348" y="0" type="line"/>
+      <point x="188" y="280" type="line"/>
+      <point x="471" y="517" type="line"/>
+      <point x="373" y="517" type="line"/>
+      <point x="19" y="221" type="line"/>
+      <point x="1" y="127" type="line"/>
+      <point x="126" y="229" type="line"/>
+      <point x="257" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

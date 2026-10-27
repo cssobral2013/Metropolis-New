@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdblright" format="2">
+  <advance width="966"/>
+  <unicode hex="21D2"/>
+  <outline>
+    <contour>
+      <point x="862" y="318" type="line"/>
+      <point x="478" y="702" type="line"/>
+      <point x="377" y="603" type="line"/>
+      <point x="489" y="491" type="line"/>
+      <point x="131" y="491" type="line"/>
+      <point x="131" y="351" type="line"/>
+      <point x="629" y="351" type="line"/>
+      <point x="661" y="318" type="line"/>
+      <point x="628" y="285" type="line"/>
+      <point x="131" y="285" type="line"/>
+      <point x="131" y="145" type="line"/>
+      <point x="488" y="145" type="line"/>
+      <point x="377" y="34" type="line"/>
+      <point x="478" y="-66" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w966m862,318l478,702l377,603l489,491l131,491l131,351l629,351l661,318l628,285l131,285l131,145l488,145l377,34l478,-66</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 145 140</string>
+          <string>hstem 351 140</string>
+          <string>vstem 131 731</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

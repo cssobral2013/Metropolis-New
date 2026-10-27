@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae_upper" format="2">
+  <advance width="709"/>
+  <outline>
+    <contour>
+      <point x="245" y="0" type="line"/>
+      <point x="642" y="687" type="line"/>
+      <point x="418" y="687" type="line"/>
+      <point x="21" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="673" y="92" type="line"/>
+      <point x="673" y="235" type="line"/>
+      <point x="254" y="235" type="line"/>
+      <point x="254" y="92" type="line"/>
+    </contour>
+  </outline>
+</glyph>

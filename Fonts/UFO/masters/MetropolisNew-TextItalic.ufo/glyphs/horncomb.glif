@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horncomb" format="2">
+  <advance width="608"/>
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="538" y="517" type="curve" smooth="yes"/>
+      <point x="503" y="517" type="line"/>
+      <point x="491" y="462" type="line"/>
+      <point x="526" y="462" type="line" smooth="yes"/>
+      <point x="632" y="462"/>
+      <point x="710" y="534"/>
+      <point x="732" y="638" type="curve"/>
+      <point x="659" y="638" type="line"/>
+      <point x="646" y="578"/>
+      <point x="606" y="517"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w608m538,517l503,517l491,462l526,462c632,462 710,534 732,638l659,638c646,578 606,517 538,517</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 462 55</string>
+          <string>vstem 578 73</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflextilde" format="2">
+  <advance width="570"/>
+  <outline>
+    <contour>
+      <point x="232" y="808" type="curve" smooth="yes"/>
+      <point x="262" y="808"/>
+      <point x="312" y="742"/>
+      <point x="361" y="742" type="curve" smooth="yes"/>
+      <point x="421" y="742"/>
+      <point x="445" y="799"/>
+      <point x="452" y="850" type="curve"/>
+      <point x="416" y="857" type="line"/>
+      <point x="411" y="828"/>
+      <point x="399" y="778"/>
+      <point x="361" y="778" type="curve" smooth="yes"/>
+      <point x="331" y="778"/>
+      <point x="281" y="844"/>
+      <point x="232" y="844" type="curve" smooth="yes"/>
+      <point x="173" y="844"/>
+      <point x="148" y="786"/>
+      <point x="141" y="736" type="curve"/>
+      <point x="177" y="729" type="line"/>
+      <point x="182" y="759"/>
+      <point x="194" y="808"/>
+    </contour>
+    <contour>
+      <point x="427" y="576" type="line"/>
+      <point x="319" y="713" type="line"/>
+      <point x="275" y="713" type="line"/>
+      <point x="169" y="576" type="line"/>
+      <point x="213" y="576" type="line"/>
+      <point x="297" y="682" type="line"/>
+      <point x="383" y="576" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fd57a4d5fe9ade00245ea8b3ccf822d743cfea9caf926d8f5030759f10a545778a402ac47fd6011e514fe5fd72b54939546de466a6c964473504a872d8f710c0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 36</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 289 36</string>
+          <string>hstem 493 36</string>
+          <string>hstem 682 31</string>
+          <string>hstem 742 36</string>
+          <string>hstem 808 36</string>
+          <string>vstem 58 36</string>
+          <string>vstem 141 36</string>
+          <string>vstem 416 36</string>
+          <string>vstem 449 36</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

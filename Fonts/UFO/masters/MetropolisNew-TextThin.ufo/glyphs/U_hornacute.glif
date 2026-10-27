@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhornacute" format="2">
+  <advance width="724"/>
+  <unicode hex="1EE8"/>
+  <anchor x="305" y="874" name="top"/>
+  <outline>
+    <component base="Uhorn" xOffset="-1"/>
+    <component base="acute" xOffset="229" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Uhorn+acute</string>
+  </dict>
+  </lib>
+</glyph>

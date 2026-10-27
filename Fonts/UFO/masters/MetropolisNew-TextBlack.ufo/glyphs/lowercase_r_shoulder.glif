@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowercase_r_shoulder" format="2">
+  <advance width="275"/>
+  <outline>
+    <contour>
+      <point x="71" y="219" type="line"/>
+      <point x="71" y="313"/>
+      <point x="131" y="369"/>
+      <point x="233" y="369" type="curve"/>
+      <point x="233" y="529" type="line"/>
+      <point x="119" y="529"/>
+      <point x="38" y="425"/>
+      <point x="38" y="279" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

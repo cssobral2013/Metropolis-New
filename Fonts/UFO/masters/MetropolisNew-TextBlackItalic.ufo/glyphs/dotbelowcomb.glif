@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="2">
+  <advance width="606"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="248.672" y="-58" type="curve" smooth="yes"/>
+      <point x="200.672" y="-58"/>
+      <point x="154.382" y="-97"/>
+      <point x="144.179" y="-145" type="curve" smooth="yes"/>
+      <point x="134.189" y="-192"/>
+      <point x="164.899" y="-231"/>
+      <point x="211.899" y="-231" type="curve" smooth="yes"/>
+      <point x="259.899" y="-231"/>
+      <point x="306.977" y="-193"/>
+      <point x="317.179" y="-145" type="curve" smooth="yes"/>
+      <point x="327.807" y="-95"/>
+      <point x="298.672" y="-58"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ac914a938bb1534e561c6c32f67aa45ac081e3a962a4ea3c0f88c5df794fafcc39668cd201d17b88801e0fc7e7a2a03b1dc064e2aaae342d6ce5e943566b8a29</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -231 173</string>
+          <string>vstem 230 173</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

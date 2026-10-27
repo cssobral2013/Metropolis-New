@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowercase_r_shoulder" format="2">
+  <advance width="302"/>
+  <outline>
+    <contour>
+      <point x="84" y="288" type="line"/>
+      <point x="110" y="407"/>
+      <point x="211" y="493"/>
+      <point x="328" y="493" type="curve"/>
+      <point x="333" y="529" type="line"/>
+      <point x="226" y="529"/>
+      <point x="117" y="471"/>
+      <point x="93" y="360" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

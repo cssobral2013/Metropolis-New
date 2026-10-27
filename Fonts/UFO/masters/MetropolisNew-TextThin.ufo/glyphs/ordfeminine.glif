@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="2">
+  <advance width="325"/>
+  <unicode hex="00AA"/>
+  <anchor x="291" y="377" name="bottom"/>
+  <anchor x="176" y="687" name="top"/>
+  <outline>
+    <contour>
+      <point x="291" y="377" type="line"/>
+      <point x="291" y="566" type="line" smooth="yes"/>
+      <point x="291" y="641"/>
+      <point x="250" y="694"/>
+      <point x="165" y="694" type="curve" smooth="yes"/>
+      <point x="135" y="694"/>
+      <point x="98" y="687"/>
+      <point x="54" y="664" type="curve"/>
+      <point x="72" y="628" type="line"/>
+      <point x="100" y="642"/>
+      <point x="131" y="656"/>
+      <point x="162" y="656" type="curve" smooth="yes"/>
+      <point x="230" y="656"/>
+      <point x="246" y="608"/>
+      <point x="246" y="566" type="curve" smooth="yes"/>
+      <point x="246" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="370" type="curve" smooth="yes"/>
+      <point x="186" y="370"/>
+      <point x="244" y="398"/>
+      <point x="257" y="451" type="curve"/>
+      <point x="246" y="474" type="line"/>
+      <point x="234" y="430"/>
+      <point x="186" y="409"/>
+      <point x="145" y="409" type="curve" smooth="yes"/>
+      <point x="101" y="409"/>
+      <point x="68" y="432"/>
+      <point x="68" y="471" type="curve" smooth="yes"/>
+      <point x="68" y="508"/>
+      <point x="107" y="534"/>
+      <point x="153" y="534" type="curve" smooth="yes"/>
+      <point x="195" y="534"/>
+      <point x="233" y="527"/>
+      <point x="266" y="515" type="curve"/>
+      <point x="266" y="547" type="line"/>
+      <point x="230" y="562"/>
+      <point x="186" y="572"/>
+      <point x="146" y="572" type="curve" smooth="yes"/>
+      <point x="79" y="572"/>
+      <point x="24" y="531"/>
+      <point x="24" y="469" type="curve" smooth="yes"/>
+      <point x="24" y="408"/>
+      <point x="72" y="370"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

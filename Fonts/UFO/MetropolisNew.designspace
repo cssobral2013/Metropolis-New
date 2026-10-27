@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis default="400" tag="wght" minimum="100" maximum="900" name="weight">
+  <axis tag="opsz" minimum="14" name="optical size" default="14" maximum="28">
+   <labelname xml:lang="en">Optical Size</labelname>
+   <map input="14" output="14"/>
+   <map input="18" output="18"/>
+   <map input="28" output="28"/>
+  </axis>
+  <axis tag="wght" minimum="100" name="weight" default="400" maximum="900">
    <labelname xml:lang="en">Weight</labelname>
    <map input="100" output="100"/>
    <map input="200" output="200"/>
@@ -15,23 +21,44 @@
   </axis>
  </axes>
  <sources>
-  <source filename="masters/MetropolisNew-Black.ufo" name="Black" stylename="Black" familyname="Metropolis New">
+  <source stylename="Display" familyname="Metropolis New" name="Display" filename="masters/MetropolisNew-Display.ufo">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-  <source filename="masters/MetropolisNew-Regular.ufo" name="Regular" stylename="Regular" familyname="Metropolis New">
+  <source stylename="Black Display" familyname="Metropolis New" name="Display Black" filename="masters/MetropolisNew-DisplayBlack.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+  <source stylename="Thin Display" familyname="Metropolis New" name="Display Thin" filename="masters/MetropolisNew-DisplayThin.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+  <source stylename="Text" familyname="Metropolis New" name="Text" filename="masters/MetropolisNew-Text.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-  <source filename="masters/MetropolisNew-Thin.ufo" name="Thin" stylename="Thin" familyname="Metropolis New">
+  <source stylename="Black Text" familyname="Metropolis New" name="Text Black" filename="masters/MetropolisNew-TextBlack.ufo">
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+  <source stylename="Thin Text" familyname="Metropolis New" name="Text Thin" filename="masters/MetropolisNew-TextThin.ufo">
+   <location>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="100"/>
    </location>
   </source>
  </sources>
@@ -177,54 +204,170 @@
     <string>descender</string>
     <string>lowercase_m_shoulder</string>
     <string>capital_V</string>
-    <string>_areas</string>
    </array>
   </dict>
  </lib>
  <instances>
-  <instance filename="instances/MetropolisNew-Thin.ufo" name="Thin" stylename="Thin" familyname="Metropolis New">
+  <instance stylename="Text Thin" familyname="Metropolis New" name="TextThin" filename="instances/MetropolisNew-TextThin.ufo">
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-ExtraLight.ufo" name="ExtraLight" stylename="ExtraLight" familyname="Metropolis New">
+  <instance stylename="Text ExtraLight" familyname="Metropolis New" name="TextExtraLight" filename="instances/MetropolisNew-TextExtraLight.ufo">
    <location>
-    <dimension xvalue="200" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="200"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-Light.ufo" name="Light" stylename="Light" familyname="Metropolis New">
+  <instance stylename="Text Light" familyname="Metropolis New" name="TextLight" filename="instances/MetropolisNew-TextLight.ufo">
    <location>
-    <dimension xvalue="300" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="300"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-Regular.ufo" name="Regular" stylename="Regular" familyname="Metropolis New">
+  <instance stylename="Text" familyname="Metropolis New" name="Text" filename="instances/MetropolisNew-Text.ufo">
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-Medium.ufo" name="Medium" stylename="Medium" familyname="Metropolis New">
+  <instance stylename="Text Medium" familyname="Metropolis New" name="TextMedium" filename="instances/MetropolisNew-TextMedium.ufo">
    <location>
-    <dimension xvalue="500" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-SemiBold.ufo" name="SemiBold" stylename="SemiBold" familyname="Metropolis New">
+  <instance stylename="Text SemiBold" familyname="Metropolis New" name="TextSemiBold" filename="instances/MetropolisNew-TextSemiBold.ufo">
    <location>
-    <dimension xvalue="600" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-Bold.ufo" name="Bold" stylename="Bold" familyname="Metropolis New">
+  <instance stylename="Text Bold" familyname="Metropolis New" name="TextBold" filename="instances/MetropolisNew-TextBold.ufo">
    <location>
-    <dimension xvalue="700" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-ExtraBold.ufo" name="ExtraBold" stylename="ExtraBold" familyname="Metropolis New">
+  <instance stylename="Text ExtraBold" familyname="Metropolis New" name="TextExtraBold" filename="instances/MetropolisNew-TextExtraBold.ufo">
    <location>
-    <dimension xvalue="800" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="800"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-Black.ufo" name="Black" stylename="Black" familyname="Metropolis New">
+  <instance stylename="Text Black" familyname="Metropolis New" name="TextBlack" filename="instances/MetropolisNew-TextBlack.ufo">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Thin" familyname="Metropolis New" name="SubheadThin" filename="instances/MetropolisNew-SubheadThin.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead ExtraLight" familyname="Metropolis New" name="SubheadExtraLight" filename="instances/MetropolisNew-SubheadExtraLight.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Light" familyname="Metropolis New" name="SubheadLight" filename="instances/MetropolisNew-SubheadLight.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead" familyname="Metropolis New" name="Subhead" filename="instances/MetropolisNew-Subhead.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Medium" familyname="Metropolis New" name="SubheadMedium" filename="instances/MetropolisNew-SubheadMedium.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead SemiBold" familyname="Metropolis New" name="SubheadSemiBold" filename="instances/MetropolisNew-SubheadSemiBold.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Bold" familyname="Metropolis New" name="SubheadBold" filename="instances/MetropolisNew-SubheadBold.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead ExtraBold" familyname="Metropolis New" name="SubheadExtraBold" filename="instances/MetropolisNew-SubheadExtraBold.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Black" familyname="Metropolis New" name="SubheadBlack" filename="instances/MetropolisNew-SubheadBlack.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+  <instance stylename="Display Thin" familyname="Metropolis New" name="DisplayThin" filename="instances/MetropolisNew-DisplayThin.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance stylename="Display ExtraLight" familyname="Metropolis New" name="DisplayExtraLight" filename="instances/MetropolisNew-DisplayExtraLight.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance stylename="Display Light" familyname="Metropolis New" name="DisplayLight" filename="instances/MetropolisNew-DisplayLight.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance stylename="Display" familyname="Metropolis New" name="Display" filename="instances/MetropolisNew-Display.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance stylename="Display Medium" familyname="Metropolis New" name="DisplayMedium" filename="instances/MetropolisNew-DisplayMedium.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance stylename="Display SemiBold" familyname="Metropolis New" name="DisplaySemiBold" filename="instances/MetropolisNew-DisplaySemiBold.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance stylename="Display Bold" familyname="Metropolis New" name="DisplayBold" filename="instances/MetropolisNew-DisplayBold.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance stylename="Display ExtraBold" familyname="Metropolis New" name="DisplayExtraBold" filename="instances/MetropolisNew-DisplayExtraBold.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+  <instance stylename="Display Black" familyname="Metropolis New" name="DisplayBlack" filename="instances/MetropolisNew-DisplayBlack.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="900"/>
    </location>
   </instance>
  </instances>

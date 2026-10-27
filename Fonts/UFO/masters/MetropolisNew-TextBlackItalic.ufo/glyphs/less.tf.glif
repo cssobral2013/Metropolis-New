@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less.tf" format="2">
+  <advance width="720"/>
+  <outline>
+    <contour>
+      <point x="578" y="229" type="line"/>
+      <point x="272" y="343" type="line"/>
+      <point x="628" y="459" type="line"/>
+      <point x="657" y="609" type="line"/>
+      <point x="143" y="420" type="line"/>
+      <point x="113" y="267" type="line"/>
+      <point x="548" y="78" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

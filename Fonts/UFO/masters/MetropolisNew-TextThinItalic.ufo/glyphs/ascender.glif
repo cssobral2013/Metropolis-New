@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ascender" format="2">
+  <advance width="243"/>
+  <anchor x="103" y="125" name="k_arms"/>
+  <anchor x="102" y="249" name="loop_left"/>
+  <anchor x="139" y="257" name="loop_right"/>
+  <anchor x="154" y="329" name="shoulder"/>
+  <outline>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="231" y="699" type="line"/>
+      <point x="195" y="699" type="line"/>
+      <point x="50" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

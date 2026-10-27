@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevetilde" format="2">
+  <advance width="789"/>
+  <unicode hex="1EB4"/>
+  <anchor x="714" y="0" name="bottom"/>
+  <outline>
+    <component base="A" xOffset="-1"/>
+    <component base="brevetilde.case" xOffset="-44"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+brevetilde.case</string>
+  </dict>
+  </lib>
+</glyph>

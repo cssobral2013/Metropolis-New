@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater.tf" format="2">
+  <advance width="720"/>
+  <outline>
+    <contour>
+      <point x="610" y="267" type="line"/>
+      <point x="610" y="420" type="line"/>
+      <point x="135" y="609" type="line"/>
+      <point x="135" y="459" type="line"/>
+      <point x="466" y="343" type="line"/>
+      <point x="135" y="229" type="line"/>
+      <point x="135" y="78" type="line"/>
+    </contour>
+  </outline>
+</glyph>

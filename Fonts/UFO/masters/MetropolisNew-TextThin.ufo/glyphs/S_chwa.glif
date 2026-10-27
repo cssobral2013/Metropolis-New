@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa" format="2">
+  <advance width="847"/>
+  <unicode hex="018F"/>
+  <anchor x="412" y="703" name="bottom"/>
+  <anchor x="418" y="0" name="top"/>
+  <outline>
+    <contour>
+      <point x="420" y="703" type="curve" smooth="yes"/>
+      <point x="307" y="703"/>
+      <point x="188" y="658"/>
+      <point x="131" y="597" type="curve"/>
+      <point x="160" y="567" type="line"/>
+      <point x="220" y="632"/>
+      <point x="319" y="663"/>
+      <point x="420" y="663" type="curve" smooth="yes"/>
+      <point x="579" y="663"/>
+      <point x="719" y="515"/>
+      <point x="719" y="342" type="curve" smooth="yes"/>
+      <point x="719" y="166"/>
+      <point x="586" y="24"/>
+      <point x="419" y="24" type="curve" smooth="yes"/>
+      <point x="249" y="24"/>
+      <point x="129" y="147"/>
+      <point x="129" y="337" type="curve"/>
+      <point x="131" y="323" type="line"/>
+      <point x="736" y="323" type="line"/>
+      <point x="736" y="362" type="line"/>
+      <point x="91" y="362" type="line"/>
+      <point x="91" y="136"/>
+      <point x="225" y="-16"/>
+      <point x="418" y="-16" type="curve" smooth="yes"/>
+      <point x="608" y="-16"/>
+      <point x="756" y="142"/>
+      <point x="756" y="342" type="curve" smooth="yes"/>
+      <point x="756" y="535"/>
+      <point x="604" y="703"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevehoi.case" format="2">
+  <advance width="816"/>
+  <anchor x="384" y="687" name="_top"/>
+  <outline>
+    <contour>
+      <point x="453" y="923" type="curve" smooth="yes"/>
+      <point x="453" y="964"/>
+      <point x="419" y="979"/>
+      <point x="383" y="979" type="curve" smooth="yes"/>
+      <point x="361" y="979"/>
+      <point x="340" y="971"/>
+      <point x="320" y="961" type="curve"/>
+      <point x="323" y="929" type="line"/>
+      <point x="343" y="938"/>
+      <point x="363" y="950"/>
+      <point x="385" y="950" type="curve" smooth="yes"/>
+      <point x="404" y="950"/>
+      <point x="425" y="945"/>
+      <point x="425" y="923" type="curve" smooth="yes"/>
+      <point x="425" y="893"/>
+      <point x="390" y="878"/>
+      <point x="366" y="872" type="curve"/>
+      <point x="366" y="838" type="line"/>
+      <point x="395" y="838" type="line"/>
+      <point x="395" y="854" type="line"/>
+      <point x="424" y="866"/>
+      <point x="453" y="888"/>
+    </contour>
+    <contour>
+      <point x="486" y="830" type="line"/>
+      <point x="458" y="802"/>
+      <point x="423" y="788"/>
+      <point x="384" y="788" type="curve" smooth="yes"/>
+      <point x="345" y="788"/>
+      <point x="310" y="802"/>
+      <point x="282" y="830" type="curve"/>
+      <point x="260" y="808" type="line"/>
+      <point x="294" y="775"/>
+      <point x="336" y="757"/>
+      <point x="384" y="757" type="curve" smooth="yes"/>
+      <point x="431" y="757"/>
+      <point x="474" y="774"/>
+      <point x="508" y="808" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bc9368944a3c3c3b46101fa78c004a86b3ca070640ef58270985e9e5d744c306d91bb3e5a1d8648c2fd91f7dd946099634d1be7474aa26e8e827be0568a04baf</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 175 36</string>
+          <string>hstem 642 45</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 759 37</string>
+          <string>hstem 855 39</string>
+          <string>hstem 986 34</string>
+          <string>vstem 345 34</string>
+          <string>vstem 414 34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

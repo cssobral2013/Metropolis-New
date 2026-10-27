@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae_upper" format="2">
+  <advance width="446"/>
+  <outline>
+    <contour>
+      <point x="-14" y="0" type="line"/>
+      <point x="525" y="687" type="line"/>
+      <point x="483" y="687" type="line"/>
+      <point x="-57" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="175" type="line"/>
+      <point x="421" y="211" type="line"/>
+      <point x="117" y="211" type="line"/>
+      <point x="110" y="175" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

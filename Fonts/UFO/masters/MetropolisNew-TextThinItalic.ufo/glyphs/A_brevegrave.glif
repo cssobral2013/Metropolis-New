@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevegrave" format="2">
+  <advance width="816"/>
+  <unicode hex="1EB0"/>
+  <anchor x="677" y="0" name="bottom"/>
+  <outline>
+    <component base="A" xOffset="-1"/>
+    <component base="brevegrave.case" xOffset="19"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+brevegrave.case</string>
+  </dict>
+  </lib>
+</glyph>

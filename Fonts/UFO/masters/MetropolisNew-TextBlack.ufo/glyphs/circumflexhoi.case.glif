@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexhoi.case" format="2">
+  <advance width="789"/>
+  <anchor x="326" y="687" name="_top"/>
+  <outline>
+    <contour>
+      <point x="509" y="922" type="curve" smooth="yes"/>
+      <point x="509" y="902"/>
+      <point x="467" y="884"/>
+      <point x="450" y="879" type="curve"/>
+      <point x="450" y="843" type="line"/>
+      <point x="529" y="843" type="line"/>
+      <point x="529" y="851" type="line"/>
+      <point x="574" y="864"/>
+      <point x="621" y="889"/>
+      <point x="621" y="942" type="curve" smooth="yes"/>
+      <point x="621" y="1004"/>
+      <point x="558" y="1014"/>
+      <point x="509" y="1014" type="curve" smooth="yes"/>
+      <point x="472" y="1014"/>
+      <point x="435" y="1008"/>
+      <point x="401" y="996" type="curve"/>
+      <point x="407" y="916" type="line"/>
+      <point x="429" y="926"/>
+      <point x="457" y="935"/>
+      <point x="482" y="935" type="curve" smooth="yes"/>
+      <point x="492" y="935"/>
+      <point x="509" y="934"/>
+    </contour>
+    <contour>
+      <point x="485" y="744" type="line"/>
+      <point x="392" y="875" type="line"/>
+      <point x="260" y="875" type="line"/>
+      <point x="169" y="744" type="line"/>
+      <point x="264" y="744" type="line"/>
+      <point x="326" y="801" type="line"/>
+      <point x="389" y="744" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b783385a89400191b6d9b24ab9c6afd99925134ae659bee06620a39056a3aed8aaf32af19bd1c01088135724cfa75fe98eaa266e4e5a999da87f35643d959c0b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 92 143</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 744 154</string>
+          <string>hstem 861 201</string>
+          <string>vstem 457 93</string>
+          <string>vstem 527 131</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

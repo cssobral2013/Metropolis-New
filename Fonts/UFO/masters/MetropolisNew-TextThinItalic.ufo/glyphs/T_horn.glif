@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="722"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="89" y="0" type="line"/>
+      <point x="118" y="136" type="line"/>
+      <point x="372" y="136" type="line" smooth="yes"/>
+      <point x="525" y="136"/>
+      <point x="657" y="244"/>
+      <point x="657" y="388" type="curve" smooth="yes"/>
+      <point x="657" y="488"/>
+      <point x="579" y="556"/>
+      <point x="457" y="556" type="curve" smooth="yes"/>
+      <point x="205" y="556" type="line"/>
+      <point x="232" y="687" type="line"/>
+      <point x="196" y="687" type="line"/>
+      <point x="53" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="520" type="line"/>
+      <point x="445" y="520" type="line" smooth="yes"/>
+      <point x="553" y="520"/>
+      <point x="621" y="465"/>
+      <point x="621" y="383" type="curve" smooth="yes"/>
+      <point x="621" y="264"/>
+      <point x="504" y="172"/>
+      <point x="370" y="172" type="curve" smooth="yes"/>
+      <point x="125" y="172" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

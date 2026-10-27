@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzcaron" format="2">
+  <advance width="1275"/>
+  <unicode hex="01C6"/>
+  <anchor x="983" y="704" name="top"/>
+  <outline>
+    <component base="d" xOffset="8"/>
+    <component base="z" xOffset="692"/>
+    <component base="caron" xOffset="780"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>d_z+caron%</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="utilde" format="2">
+  <advance width="646"/>
+  <unicode hex="0169"/>
+  <anchor x="582" y="0" name="bottom"/>
+  <anchor x="312" y="704" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="tilde" xOffset="94"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+tilde</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

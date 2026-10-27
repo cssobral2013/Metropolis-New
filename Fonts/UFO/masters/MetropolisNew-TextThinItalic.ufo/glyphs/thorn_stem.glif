@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn_stem" format="2">
+  <advance width="245"/>
+  <anchor x="141" y="257" name="loop_right"/>
+  <outline>
+    <contour>
+      <point x="51" y="-172" type="line"/>
+      <point x="232" y="699" type="line"/>
+      <point x="196" y="699" type="line"/>
+      <point x="15" y="-172" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

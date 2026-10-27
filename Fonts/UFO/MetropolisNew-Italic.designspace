@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis default="400" tag="wght" minimum="100" maximum="900" name="weight">
+  <axis tag="opsz" minimum="14" name="optical size" default="14" maximum="28">
+   <labelname xml:lang="en">Optical Size</labelname>
+   <map input="14" output="14"/>
+   <map input="18" output="18"/>
+   <map input="28" output="28"/>
+  </axis>
+  <axis tag="wght" minimum="100" name="weight" default="400" maximum="900">
    <labelname xml:lang="en">Weight</labelname>
    <map input="100" output="100"/>
    <map input="200" output="200"/>
@@ -15,23 +21,44 @@
   </axis>
  </axes>
  <sources>
-  <source filename="masters/MetropolisNew-BlackItalic.ufo" name="BlackItalic" stylename="Black Italic" familyname="Metropolis New">
+  <source stylename="Black Italic" familyname="Metropolis New" name="Display Black Italic" filename="masters/MetropolisNew-DisplayBlackItalic.ufo">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="900"/>
    </location>
   </source>
-  <source filename="masters/MetropolisNew-Italic.ufo" name="Italic" stylename="Italic" familyname="Metropolis New">
+  <source stylename="Italic" familyname="Metropolis New" name="Display Italic" filename="masters/MetropolisNew-DisplayItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+  <source stylename="Thin Italic" familyname="Metropolis New" name="Display Thin Italic" filename="masters/MetropolisNew-DisplayThinItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+  <source stylename="Black Italic" familyname="Metropolis New" name="Text Black Italic" filename="masters/MetropolisNew-TextBlackItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+  <source stylename="Italic" familyname="Metropolis New" name="Text Italic" filename="masters/MetropolisNew-TextItalic.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-  <source filename="masters/MetropolisNew-ThinItalic.ufo" name="ThinItalic" stylename="Thin Italic" familyname="Metropolis New">
+  <source stylename="Thin Italic" familyname="Metropolis New" name="Text Thin Italic" filename="masters/MetropolisNew-TextThinItalic.ufo">
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="100"/>
    </location>
   </source>
  </sources>
@@ -179,54 +206,170 @@
     <string>descender</string>
     <string>lowercase_m_shoulder</string>
     <string>capital_V</string>
-    <string>_areas</string>
    </array>
   </dict>
  </lib>
  <instances>
-  <instance filename="instances/MetropolisNew-ThinItalic.ufo" name="ThinItalic" stylename="Thin Italic" familyname="Metropolis New">
+  <instance stylename="Text Thin Italic" familyname="Metropolis New" name="TextThinItalic" filename="instances/MetropolisNew-TextThinItalic.ufo">
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-ExtraLightItalic.ufo" name="ExtraLightItalic" stylename="ExtraLight Italic" familyname="Metropolis New">
+  <instance stylename="Text ExtraLight Italic" familyname="Metropolis New" name="TextExtraLightItalic" filename="instances/MetropolisNew-TextExtraLightItalic.ufo">
    <location>
-    <dimension xvalue="200" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="200"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-LightItalic.ufo" name="LightItalic" stylename="Light Italic" familyname="Metropolis New">
+  <instance stylename="Text Light Italic" familyname="Metropolis New" name="TextLightItalic" filename="instances/MetropolisNew-TextLightItalic.ufo">
    <location>
-    <dimension xvalue="300" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="300"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-Italic.ufo" name="Italic" stylename="Italic" familyname="Metropolis New">
+  <instance stylename="Text Italic" familyname="Metropolis New" name="TextItalic" filename="instances/MetropolisNew-TextItalic.ufo">
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-MediumItalic.ufo" name="MediumItalic" stylename="Medium Italic" familyname="Metropolis New">
+  <instance stylename="Text Medium Italic" familyname="Metropolis New" name="TextMediumItalic" filename="instances/MetropolisNew-TextMediumItalic.ufo">
    <location>
-    <dimension xvalue="500" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-SemiBoldItalic.ufo" name="SemiBoldItalic" stylename="SemiBold Italic" familyname="Metropolis New">
+  <instance stylename="Text SemiBold Italic" familyname="Metropolis New" name="TextSemiBoldItalic" filename="instances/MetropolisNew-TextSemiBoldItalic.ufo">
    <location>
-    <dimension xvalue="600" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-BoldItalic.ufo" name="BoldItalic" stylename="Bold Italic" familyname="Metropolis New">
+  <instance stylename="Text Bold Italic" familyname="Metropolis New" name="TextBoldItalic" filename="instances/MetropolisNew-TextBoldItalic.ufo">
    <location>
-    <dimension xvalue="700" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-ExtraBoldItalic.ufo" name="ExtraBoldItalic" stylename="ExtraBold Italic" familyname="Metropolis New">
+  <instance stylename="Text ExtraBold Italic" familyname="Metropolis New" name="TextExtraBoldItalic" filename="instances/MetropolisNew-TextExtraBoldItalic.ufo">
    <location>
-    <dimension xvalue="800" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="800"/>
    </location>
   </instance>
-  <instance filename="instances/MetropolisNew-BlackItalic.ufo" name="BlackItalic" stylename="Black Italic" familyname="Metropolis New">
+  <instance stylename="Text Black Italic" familyname="Metropolis New" name="TextBlackItalic" filename="instances/MetropolisNew-TextBlackItalic.ufo">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension name="optical size" xvalue="14"/>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Thin Italic" familyname="Metropolis New" name="SubheadThinItalic" filename="instances/MetropolisNew-SubheadThinItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead ExtraLight Italic" familyname="Metropolis New" name="SubheadExtraLightItalic" filename="instances/MetropolisNew-SubheadExtraLightItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Light Italic" familyname="Metropolis New" name="SubheadLightItalic" filename="instances/MetropolisNew-SubheadLightItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Italic" familyname="Metropolis New" name="SubheadItalic" filename="instances/MetropolisNew-SubheadItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Medium Italic" familyname="Metropolis New" name="SubheadMediumItalic" filename="instances/MetropolisNew-SubheadMediumItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead SemiBold Italic" familyname="Metropolis New" name="SubheadSemiBoldItalic" filename="instances/MetropolisNew-SubheadSemiBoldItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Bold Italic" familyname="Metropolis New" name="SubheadBoldItalic" filename="instances/MetropolisNew-SubheadBoldItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead ExtraBold Italic" familyname="Metropolis New" name="SubheadExtraBoldItalic" filename="instances/MetropolisNew-SubheadExtraBoldItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+  <instance stylename="Subhead Black Italic" familyname="Metropolis New" name="SubheadBlackItalic" filename="instances/MetropolisNew-SubheadBlackItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="18"/>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+  <instance stylename="Display Thin Italic" familyname="Metropolis New" name="DisplayThinItalic" filename="instances/MetropolisNew-DisplayThinItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance stylename="Display ExtraLight Italic" familyname="Metropolis New" name="DisplayExtraLightItalic" filename="instances/MetropolisNew-DisplayExtraLightItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance stylename="Display Light Italic" familyname="Metropolis New" name="DisplayLightItalic" filename="instances/MetropolisNew-DisplayLightItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance stylename="Display Italic" familyname="Metropolis New" name="DisplayItalic" filename="instances/MetropolisNew-DisplayItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance stylename="Display Medium Italic" familyname="Metropolis New" name="DisplayMediumItalic" filename="instances/MetropolisNew-DisplayMediumItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance stylename="Display SemiBold Italic" familyname="Metropolis New" name="DisplaySemiBoldItalic" filename="instances/MetropolisNew-DisplaySemiBoldItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance stylename="Display Bold Italic" familyname="Metropolis New" name="DisplayBoldItalic" filename="instances/MetropolisNew-DisplayBoldItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance stylename="Display ExtraBold Italic" familyname="Metropolis New" name="DisplayExtraBoldItalic" filename="instances/MetropolisNew-DisplayExtraBoldItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+  <instance stylename="Display Black Italic" familyname="Metropolis New" name="DisplayBlackItalic" filename="instances/MetropolisNew-DisplayBlackItalic.ufo">
+   <location>
+    <dimension name="optical size" xvalue="28"/>
+    <dimension name="weight" xvalue="900"/>
    </location>
   </instance>
  </instances>

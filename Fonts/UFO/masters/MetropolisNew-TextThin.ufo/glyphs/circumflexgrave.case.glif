@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexgrave.case" format="2">
+  <advance width="816"/>
+  <anchor x="392" y="687" name="_top"/>
+  <outline>
+    <contour>
+      <point x="392" y="975" type="line"/>
+      <point x="492" y="862" type="line"/>
+      <point x="533" y="862" type="line"/>
+      <point x="427" y="983" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="746" type="line"/>
+      <point x="410" y="862" type="line"/>
+      <point x="373" y="862" type="line"/>
+      <point x="283" y="746" type="line"/>
+      <point x="320" y="746" type="line"/>
+      <point x="392" y="836" type="line"/>
+      <point x="465" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w816m392,975l492,862l533,862l427,983m502,746l410,862l373,862l283,746l320,746l392,836l465,746</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 175 36</string>
+          <string>hstem 642 45</string>
+          <string>hstem 687 -20</string>
+          <string>hstem 852 31</string>
+          <string>vstem 51 646</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

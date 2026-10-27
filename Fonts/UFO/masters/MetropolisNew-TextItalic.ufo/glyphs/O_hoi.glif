@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohoi" format="2">
+  <advance width="832"/>
+  <unicode hex="1ECE"/>
+  <outline>
+    <component base="O"/>
+    <component base="hookabovecomb" xOffset="113" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w832</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 72</string>
+          <string>hstem 627 72</string>
+          <string>hstem 878 43</string>
+          <string>vstem 76 79</string>
+          <string>vstem 572 57</string>
+          <string>vstem 714 78</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

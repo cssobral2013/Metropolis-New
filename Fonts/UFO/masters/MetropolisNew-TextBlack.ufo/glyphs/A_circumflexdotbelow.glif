@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexdotbelow" format="2">
+  <advance width="789"/>
+  <unicode hex="1EAC"/>
+  <outline>
+    <component base="Acircumflex" xOffset="-1"/>
+    <component base="dotbelowcomb" xOffset="77"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Acircumflex+dotbelowcomb</string>
+  </dict>
+  </lib>
+</glyph>

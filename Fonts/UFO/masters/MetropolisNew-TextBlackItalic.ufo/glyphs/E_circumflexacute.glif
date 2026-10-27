@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexacute" format="2">
+  <advance width="692"/>
+  <unicode hex="1EBE"/>
+  <anchor x="165" y="687" name="ae_upper"/>
+  <anchor x="575" y="0" name="bottom"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexacute.case" xOffset="-91"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+circumflexacute.case</string>
+  </dict>
+  </lib>
+</glyph>

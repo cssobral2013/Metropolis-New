@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="capital_V" format="2">
+  <advance width="696"/>
+  <outline>
+    <contour>
+      <point x="314" y="0" type="line"/>
+      <point x="760" y="687" type="line"/>
+      <point x="719" y="687" type="line"/>
+      <point x="273" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="0" type="line"/>
+      <point x="153" y="687" type="line"/>
+      <point x="114" y="687" type="line"/>
+      <point x="274" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

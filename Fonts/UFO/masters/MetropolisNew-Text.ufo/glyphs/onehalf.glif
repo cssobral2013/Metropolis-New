@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="2">
+  <advance width="802"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="one.superior" xOffset="7"/>
+    <component base="fraction" xOffset="253"/>
+    <component base="two.inferior" xOffset="421"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>one.superior_fraction_two.inferior</string>
+  </dict>
+  </lib>
+</glyph>

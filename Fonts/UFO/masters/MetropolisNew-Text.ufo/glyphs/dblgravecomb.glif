@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecomb" format="2">
+  <advance width="541"/>
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="271" y="702" type="line"/>
+      <point x="413" y="575" type="line"/>
+      <point x="471" y="575" type="line"/>
+      <point x="350" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="700" type="line"/>
+      <point x="213" y="575" type="line"/>
+      <point x="271" y="575" type="line"/>
+      <point x="150" y="718" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w541m271,702l413,575l471,575l350,720m71,700l213,575l271,575l150,718</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 700 -20</string>
+          <string>vstem 71 400</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

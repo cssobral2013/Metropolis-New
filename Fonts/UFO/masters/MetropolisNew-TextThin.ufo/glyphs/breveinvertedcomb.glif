@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinvertedcomb" format="2">
+  <advance width="430"/>
+  <unicode hex="0311"/>
+  <outline>
+    <contour>
+      <point x="215" y="675" type="curve" smooth="yes"/>
+      <point x="159" y="675"/>
+      <point x="109" y="655"/>
+      <point x="69" y="615" type="curve"/>
+      <point x="95" y="589" type="line"/>
+      <point x="128" y="622"/>
+      <point x="169" y="638"/>
+      <point x="215" y="638" type="curve" smooth="yes"/>
+      <point x="261" y="638"/>
+      <point x="302" y="622"/>
+      <point x="335" y="589" type="curve"/>
+      <point x="361" y="615" type="line"/>
+      <point x="321" y="654"/>
+      <point x="271" y="675"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w430m215,675c159,675 109,655 69,615l95,589c128,622 169,638 215,638c261,638 302,622 335,589l361,615c321,654 271,675 215,675</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 589 37</string>
+          <string>vstem 69 292</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

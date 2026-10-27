@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexgrave" format="2">
+  <advance width="816"/>
+  <unicode hex="1EA6"/>
+  <anchor x="677" y="0" name="bottom"/>
+  <outline>
+    <component base="A" xOffset="-1"/>
+    <component base="circumflexgrave.case" xOffset="15"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+circumflexgrave.case</string>
+  </dict>
+  </lib>
+</glyph>

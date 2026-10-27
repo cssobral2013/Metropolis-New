@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevehoi" format="2">
+  <advance width="816"/>
+  <unicode hex="1EB2"/>
+  <anchor x="677" y="0" name="bottom"/>
+  <outline>
+    <component base="A" xOffset="-1"/>
+    <component base="brevehoi.case" xOffset="23"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+brevehoi.case</string>
+  </dict>
+  </lib>
+</glyph>

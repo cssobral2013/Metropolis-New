@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringacute.case" format="2">
+  <advance width="290"/>
+  <anchor x="145" y="539" name="_top"/>
+  <anchor x="145" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="145" y="589" type="curve" smooth="yes"/>
+      <point x="202" y="589"/>
+      <point x="248" y="622"/>
+      <point x="248" y="661" type="curve" smooth="yes"/>
+      <point x="248" y="701"/>
+      <point x="202" y="734"/>
+      <point x="145" y="734" type="curve" smooth="yes"/>
+      <point x="88" y="734"/>
+      <point x="42" y="701"/>
+      <point x="42" y="661" type="curve" smooth="yes"/>
+      <point x="42" y="622"/>
+      <point x="88" y="589"/>
+    </contour>
+    <contour>
+      <point x="145" y="620" type="curve" smooth="yes"/>
+      <point x="113" y="620"/>
+      <point x="86" y="639"/>
+      <point x="86" y="661" type="curve" smooth="yes"/>
+      <point x="86" y="684"/>
+      <point x="113" y="703"/>
+      <point x="145" y="703" type="curve" smooth="yes"/>
+      <point x="177" y="703"/>
+      <point x="204" y="684"/>
+      <point x="204" y="661" type="curve" smooth="yes"/>
+      <point x="204" y="639"/>
+      <point x="177" y="620"/>
+    </contour>
+    <contour>
+      <point x="173" y="711" type="line"/>
+      <point x="315" y="799" type="line"/>
+      <point x="236" y="812" type="line"/>
+      <point x="115" y="711" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ring+acute</string>
+  </dict>
+  </lib>
+</glyph>

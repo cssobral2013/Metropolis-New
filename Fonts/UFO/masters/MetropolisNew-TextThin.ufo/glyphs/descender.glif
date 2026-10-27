@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descender" format="2">
+  <advance width="244"/>
+  <anchor x="104" y="259" name="loop_left"/>
+  <anchor x="140" y="259" name="loop_right"/>
+  <outline>
+    <contour>
+      <point x="140" y="-172" type="line"/>
+      <point x="140" y="517" type="line"/>
+      <point x="104" y="517" type="line"/>
+      <point x="104" y="-172" type="line"/>
+    </contour>
+  </outline>
+</glyph>
